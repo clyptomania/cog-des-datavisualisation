@@ -8,6 +8,8 @@ public class new_csv_parser : MonoBehaviour
     // The prefab for the data points that will be instantiated
     public GameObject PointPrefab;
 
+	private LineRenderer lineRenderer;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +22,7 @@ public class new_csv_parser : MonoBehaviour
 		    new System.IO.StreamReader(@"/Users/kenrodenwaldt/Documents/HfG OF_am Main/Cog-Des/Jakob/SubjectData/Version 2_0_14_ET.csv");  
 		// Skip header line
 		file.ReadLine();
+		List<Vector3> points = new List<Vector3>();
 		while((line = file.ReadLine()) != null)
 		{  
 		    System.Console.WriteLine(line); 
@@ -44,8 +47,17 @@ public class new_csv_parser : MonoBehaviour
 			Vector3 gazeVec = rotation * gazeVecRelCam;
 			// Just for fun (and testing):
 			Instantiate(PointPrefab, position, rotation);
-		    counter++;  
+			points.Add(position);
+		    counter++;
 		}  
+		lineRenderer = this.gameObject.AddComponent<LineRenderer>();
+		lineRenderer.positionCount = counter - 1;
+
+		int counter2 = 0;
+		foreach (Vector3 point in points) {
+			lineRenderer.SetPosition(counter2, point);
+			counter2++;
+		}
 		  
 		file.Close();  
 		System.Console.WriteLine("There were {0} lines.", counter);  
