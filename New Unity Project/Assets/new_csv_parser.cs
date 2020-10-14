@@ -8,7 +8,7 @@ public class new_csv_parser : MonoBehaviour
     // The prefab for the data points that will be instantiated
     public GameObject PointPrefab;
 
-	private LineRenderer lineRenderer;
+	public LineRenderer lineRenderer;
 
     // Start is called before the first frame update
     void Start()
@@ -50,7 +50,7 @@ public class new_csv_parser : MonoBehaviour
 			points.Add(position);
 		    counter++;
 		}  
-		lineRenderer = this.gameObject.AddComponent<LineRenderer>();
+		lineRenderer = this.lineRenderer;
 		lineRenderer.positionCount = counter - 1;
 
 		int counter2 = 0;
