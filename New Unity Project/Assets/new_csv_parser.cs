@@ -62,11 +62,15 @@ public class new_csv_parser : MonoBehaviour
 				lineRendererClone.SetPosition(1, position);
 				lineRendererClone.material = new Material(Shader.Find("Sprites/Default"));
 				lineRendererClone.widthCurve = curve;
-				if (counter % 2 == 0) {
-					lineRendererClone.SetColors(red, blue);
-				} else {
-					lineRendererClone.SetColors(blue, red);
-				}
+				float distance = Vector3.Distance(positionOld, position);
+				float distanceNormed = distance / 5.0f;
+				Color color = new Color(distanceNormed, 0.0f, 1-distanceNormed, 1.0f);
+				lineRendererClone.SetColors(color, color);
+				// if (distance > 1) {
+				// 	lineRendererClone.SetColors(red, red);
+				// } else {
+				// 	lineRendererClone.SetColors(blue, blue);
+				// }
 			}
 			positionOld = position;
 		    counter++;
