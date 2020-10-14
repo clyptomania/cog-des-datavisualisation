@@ -23,6 +23,13 @@ public class new_csv_parser : MonoBehaviour
 		// Skip header line
 		file.ReadLine();
 		List<Vector3> points = new List<Vector3>();
+		Vector3 positionOld = new Vector3(0.0f, 0.0f, 0.0f);
+		Color red = new Color(1.0f, 0.0f, 0.0f, 1.0f);
+		Color blue = new Color(0.0f, 0.0f, 1.0f, 1.0f);
+		AnimationCurve curve = new AnimationCurve();
+		curve.AddKey(0.0f, 0.1f);
+		curve.AddKey(1.0f, 0.1f);		
+
 		while((line = file.ReadLine()) != null)
 		{  
 		    System.Console.WriteLine(line); 
@@ -46,18 +53,24 @@ public class new_csv_parser : MonoBehaviour
 			// Error: Rotation Data (4D Vector/Quaternion) cannot be added in conjunction with Gaze Data (3D Vector)
 			Vector3 gazeVec = rotation * gazeVecRelCam;
 			// Just for fun (and testing):
-			Instantiate(PointPrefab, position, rotation);
+			GameObject pointClone = Instantiate(PointPrefab, position, rotation);
 			points.Add(position);
+			if (counter != 0) {
+				LineRenderer lineRendererClone = pointClone.AddComponent<LineRenderer>();
+				lineRendererClone.positionCount = 2;
+				lineRendererClone.SetPosition(0, positionOld);
+				lineRendererClone.SetPosition(1, position);
+				lineRendererClone.material = new Material(Shader.Find("Sprites/Default"));
+				lineRendererClone.widthCurve = curve;
+				if (counter % 2 == 0) {
+					lineRendererClone.SetColors(red, blue);
+				} else {
+					lineRendererClone.SetColors(blue, red);
+				}
+			}
+			positionOld = position;
 		    counter++;
 		}  
-		lineRenderer = this.lineRenderer;
-		lineRenderer.positionCount = counter - 1;
-
-		int counter2 = 0;
-		foreach (Vector3 point in points) {
-			lineRenderer.SetPosition(counter2, point);
-			counter2++;
-		}
 		  
 		file.Close();  
 		System.Console.WriteLine("There were {0} lines.", counter);  
