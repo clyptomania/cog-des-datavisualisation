@@ -24,8 +24,6 @@ public class new_csv_parser : MonoBehaviour
 		file.ReadLine();
 		List<Vector3> points = new List<Vector3>();
 		Vector3 positionOld = new Vector3(0.0f, 0.0f, 0.0f);
-		Color red = new Color(1.0f, 0.0f, 0.0f, 1.0f);
-		Color blue = new Color(0.0f, 0.0f, 1.0f, 1.0f);
 		AnimationCurve curve = new AnimationCurve();
 		curve.AddKey(0.0f, 0.1f);
 		curve.AddKey(1.0f, 0.1f);		
@@ -44,16 +42,25 @@ public class new_csv_parser : MonoBehaviour
 		    	float.Parse(linesplit[5]), 
 		    	float.Parse(linesplit[6]), 
 		    	float.Parse(linesplit[7]), 
-		    	float.Parse(linesplit[7]));
+		    	float.Parse(linesplit[8]));
 		    Vector3 gazeVecRelCam = new Vector3(
 		    	float.Parse(linesplit[12]), 
 		    	float.Parse(linesplit[13]), 
 		    	float.Parse(linesplit[14]));
-			
-			// Error: Rotation Data (4D Vector/Quaternion) cannot be added in conjunction with Gaze Data (3D Vector)
 			Vector3 gazeVec = rotation * gazeVecRelCam;
 			// Just for fun (and testing):
 			GameObject pointClone = Instantiate(PointPrefab, position, rotation);
+			
+            points.Add(gazeVecRelCam);
+            counter++;
+
+			// TODO
+			// 1. gaze-Daten aus CSV einlesen -> in Position gaze, einfach analog dazu wie bei position bisher aus den Spalten
+			// GameObject pointGazeClone = Instantiate(PointPrefab, positionGaze, rotation);
+			// 2.
+			// analog pointGazeClone.AddComponent<LineRenderer>(); oder RayCast verwenden, um die Blickrichtung von der position ausgehend
+			// zu visualisieren
+
 			points.Add(position);
 			if (counter != 0) {
 				LineRenderer lineRendererClone = pointClone.AddComponent<LineRenderer>();
@@ -63,14 +70,12 @@ public class new_csv_parser : MonoBehaviour
 				lineRendererClone.material = new Material(Shader.Find("Sprites/Default"));
 				lineRendererClone.widthCurve = curve;
 				float distance = Vector3.Distance(positionOld, position);
+
+			// 	to do: find max distance between two points and set as divisor
+
 				float distanceNormed = distance / 5.0f;
 				Color color = new Color(distanceNormed, 0.0f, 1-distanceNormed, 1.0f);
 				lineRendererClone.SetColors(color, color);
-				// if (distance > 1) {
-				// 	lineRendererClone.SetColors(red, red);
-				// } else {
-				// 	lineRendererClone.SetColors(blue, blue);
-				// }
 			}
 			positionOld = position;
 		    counter++;
