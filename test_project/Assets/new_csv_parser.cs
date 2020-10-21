@@ -6,8 +6,8 @@ using UnityEngine;
 public class new_csv_parser : MonoBehaviour
 {
     // The prefab for the data points that will be instantiated
-    public GameObject PointPrefab;
-
+    public string inputfile;
+	public GameObject PointPrefab;
 	public LineRenderer lineRenderer;
 
     // Start is called before the first frame update
@@ -19,7 +19,7 @@ public class new_csv_parser : MonoBehaviour
   
 		// Read the file and display it line by line.  
 		System.IO.StreamReader file =
-		    new System.IO.StreamReader(@"/Users/kenrodenwaldt/Documents/HfG OF_am Main/Cog-Des/Jakob/SubjectData/Version 2_0_14_ET.csv");  
+		    new System.IO.StreamReader(inputfile);  
 		// Skip header line
 		file.ReadLine();
 		List<Vector3> points = new List<Vector3>();

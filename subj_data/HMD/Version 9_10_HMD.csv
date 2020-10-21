@@ -1,0 +1,2565 @@
+OcutimeStamp,UnityTimeStamp,LeftCollide,RightCollide,CombCollide
+201548,63735953531378,None,None,None
+201573,63735953531401,64|Mesh|C|Tunnel.002,64|Mesh|C|Tunnel.002,64|Mesh|C|Tunnel.002
+201615,63735953531424,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201631,63735953531447,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201665,63735953531469,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201690,63735953531488,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201698,63735953531512,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201715,63735953531534,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201740,63735953531556,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201756,63735953531579,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201790,63735953531601,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201806,63735953531625,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201831,63735953531645,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201848,63735953531667,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201856,63735953531690,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201890,63735953531713,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201915,63735953531734,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201940,63735953531755,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201940,63735953531779,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201981,63735953531802,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+201981,63735953531823,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202015,63735953531845,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202048,63735953531869,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202056,63735953531890,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202106,63735953531913,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202115,63735953531936,None,None,None
+202156,63735953531962,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202156,63735953531980,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202173,63735953532001,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202190,63735953532022,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202223,63735953532045,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202240,63735953532067,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202273,63735953532091,LM_Mesh_B_RMVServicestore,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202273,63735953532110,LM_Mesh_B_RMVServicestore,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202315,63735953532134,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,B_Ebene Bodenplatte 
+202340,63735953532156,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,B_Ebene Bodenplatte 
+202365,63735953532182,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,B_Ebene Bodenplatte 
+202381,63735953532202,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202406,63735953532223,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202423,63735953532245,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202448,63735953532267,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202473,63735953532288,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202506,63735953532310,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202515,63735953532333,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202548,63735953532356,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202565,63735953532378,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202581,63735953532400,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202606,63735953532422,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202606,63735953532446,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202639,63735953532466,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202648,63735953532488,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+202681,63735953532510,LM_WerbungGroß,None,None
+202714,63735953532532,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+202748,63735953532556,None,LM_WerbungGroß,LM_WerbungGroß
+202756,63735953532578,None,LM_WerbungGroß,LM_WerbungGroß
+202781,63735953532599,None,LM_WerbungGroß,LM_WerbungGroß
+202806,63735953532624,None,B_Ebene Bodenplatte ,LM_WerbungGroß
+202823,63735953532645,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202848,63735953532669,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202889,63735953532691,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202898,63735953532713,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202914,63735953532736,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202948,63735953532759,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202948,63735953532781,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+202973,63735953532802,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203006,63735953532825,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203039,63735953532849,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203048,63735953532871,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203081,63735953532894,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203114,63735953532915,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203139,63735953532960,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203173,63735953532982,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203181,63735953533003,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203214,63735953533026,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203239,63735953533048,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203248,63735953533069,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203256,63735953533091,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203289,63735953533116,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203306,63735953533136,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203331,63735953533159,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203389,63735953533203,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203406,63735953533225,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203423,63735953533246,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203456,63735953533271,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203473,63735953533292,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203506,63735953533314,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203523,63735953533336,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203539,63735953533359,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203556,63735953533381,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203581,63735953533403,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203614,63735953533426,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203631,63735953533449,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203656,63735953533472,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203706,63735953533518,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203739,63735953533560,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203789,63735953533603,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203789,63735953533625,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203848,63735953533650,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203889,63735953533695,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203914,63735953533737,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+203956,63735953533784,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204006,63735953533825,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204064,63735953533872,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204064,63735953533895,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204114,63735953533937,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204147,63735953533963,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204181,63735953534003,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204189,63735953534026,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204256,63735953534071,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204297,63735953534118,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204347,63735953534160,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204389,63735953534206,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204439,63735953534250,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204472,63735953534293,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204497,63735953534317,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204547,63735953534362,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204564,63735953534385,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204614,63735953534427,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204622,63735953534450,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204672,63735953534493,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204722,63735953534537,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204739,63735953534560,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204747,63735953534581,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204781,63735953534605,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204839,63735953534648,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204856,63735953534672,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204889,63735953534695,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204914,63735953534737,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+204956,63735953534783,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205006,63735953534826,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205006,63735953534850,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205081,63735953534893,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205089,63735953534915,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205139,63735953534959,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205181,63735953535004,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205214,63735953535027,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205247,63735953535070,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205264,63735953535093,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205322,63735953535137,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205347,63735953535159,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205356,63735953535183,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205414,63735953535227,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205456,63735953535270,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205472,63735953535294,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205514,63735953535338,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205581,63735953535382,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205606,63735953535426,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205647,63735953535470,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205680,63735953535493,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205722,63735953535536,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205747,63735953535581,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205814,63735953535626,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205864,63735953535670,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205880,63735953535694,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205922,63735953535737,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205964,63735953535780,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+205980,63735953535804,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206022,63735953535830,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206047,63735953535870,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206089,63735953535914,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206147,63735953535957,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206147,63735953535980,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206197,63735953536003,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206214,63735953536026,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206230,63735953536047,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206272,63735953536092,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206314,63735953536136,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206330,63735953536158,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206364,63735953536182,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206397,63735953536224,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206422,63735953536248,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206480,63735953536292,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206497,63735953536317,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206547,63735953536363,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206580,63735953536405,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206647,63735953536449,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206672,63735953536492,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206705,63735953536513,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206722,63735953536534,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206730,63735953536557,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206755,63735953536579,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206814,63735953536625,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206822,63735953536645,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206847,63735953536669,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206880,63735953536692,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206889,63735953536713,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206922,63735953536737,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206939,63735953536759,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+206972,63735953536782,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207005,63735953536824,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207039,63735953536847,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207055,63735953536868,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207080,63735953536893,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207097,63735953536915,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207155,63735953536958,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207164,63735953536981,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207213,63735953537025,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207255,63735953537068,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207272,63735953537091,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207297,63735953537117,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207313,63735953537159,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207372,63735953537204,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207422,63735953537248,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207480,63735953537293,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207530,63735953537337,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207580,63735953537382,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207588,63735953537407,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207647,63735953537449,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207680,63735953537493,B_Ebene Bodenplatte ,None,B_Ebene Bodenplatte 
+207730,63735953537538,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207763,63735953537580,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207805,63735953537627,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207855,63735953537669,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207897,63735953537715,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207947,63735953537759,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+207988,63735953537805,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208022,63735953537850,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208080,63735953537891,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208088,63735953537937,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208163,63735953537981,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208213,63735953538025,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208263,63735953538068,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208280,63735953538092,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208313,63735953538139,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208363,63735953538181,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208388,63735953538225,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208438,63735953538269,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208480,63735953538293,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208530,63735953538336,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208547,63735953538360,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208580,63735953538404,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208647,63735953538448,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208672,63735953538492,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208713,63735953538535,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208755,63735953538582,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208813,63735953538628,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208863,63735953538674,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208913,63735953538717,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208955,63735953538763,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+208996,63735953538811,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+209021,63735953538855,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+209080,63735953538899,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+209113,63735953538943,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+209180,63735953538991,B_Ebene Bodenplatte ,15_Werbetafel 1 (20),B_Ebene Bodenplatte 
+209221,63735953539038,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+209255,63735953539082,B_Ebene Bodenplatte ,None,B_Ebene Bodenplatte 
+209313,63735953539127,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+209380,63735953539196,None,None,None
+209446,63735953539262,None,LM_Vitrine,LM_Vitrine
+209513,63735953539327,None,None,None
+209596,63735953539399,None,None,None
+209671,63735953539462,None,None,None
+209705,63735953539528,None,None,None
+209780,63735953539599,None,None,None
+209846,63735953539663,15_Werbetafel 1 (19),15_Werbetafel 1 (18),15_Werbetafel 1 (18)
+209913,63735953539731,15_Werbetafel 1 (19),15_Werbetafel 1 (18),15_Werbetafel 1 (19)
+209988,63735953539798,None,15_Werbetafel 1 (19),15_Werbetafel 1 (19)
+210046,63735953539862,None,None,None
+210121,63735953539930,None,None,None
+210196,63735953539994,None,None,None
+210255,63735953540060,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+210313,63735953540123,None,None,None
+210338,63735953540156,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+210371,63735953540191,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+210438,63735953540254,None,None,None
+210454,63735953540286,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+210488,63735953540318,B_Ebene Bodenplatte ,None,B_Ebene Bodenplatte 
+210538,63735953540354,None,None,None
+210579,63735953540384,None,LM_NotrufsäuleBlau,LM_NotrufsäuleBlau
+210604,63735953540415,None,23_Feuerlöscher (1),None
+210646,63735953540450,None,None,LM_WerbungGroß
+210679,63735953540482,None,None,None
+210721,63735953540517,None,None,LM_WerbungGroß
+210754,63735953540550,None,None,LM_WerbungGroß
+210788,63735953540585,None,None,LM_WerbungGroß
+210813,63735953540614,None,None,LM_WerbungGroß
+210846,63735953540649,None,38_Telefonsaeule 1,None
+210879,63735953540682,None,LM_WerbungGroß,None
+210913,63735953540715,None,LM_WerbungGroß,None
+210946,63735953540746,LM_Fahrkarten-Automat,None,None
+210988,63735953540781,Cube (5),None,LM_Fahrkarten-Automat
+211004,63735953540811,Cube (5),LM_Fahrkarten-Automat,LM_Fahrkarten-Automat
+211054,63735953540844,None,None,None
+211088,63735953540876,None,None,None
+211121,63735953540909,None,None,None
+211138,63735953540943,None,None,None
+211154,63735953540965,None,None,None
+211179,63735953540989,None,None,None
+211188,63735953541014,None,None,None
+211221,63735953541033,None,None,None
+211238,63735953541057,None,None,None
+211271,63735953541077,None,None,None
+211288,63735953541098,None,None,None
+211304,63735953541124,None,None,None
+211313,63735953541143,None,None,None
+211346,63735953541167,15_Werbetafel 1 (18),15_Werbetafel 1 (18),15_Werbetafel 1 (18)
+211379,63735953541193,None,None,None
+211421,63735953541237,None,None,None
+211463,63735953541282,None,15_Werbetafel 1 (23),None
+211513,63735953541331,None,None,None
+211538,63735953541379,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+211588,63735953541428,LM_Vitrineninhalt,LM_Vitrine,LM_Vitrineninhalt
+211646,63735953541474,LM_Vitrineninhalt,LM_Vitrine,LM_Vitrineninhalt
+211704,63735953541518,None,None,None
+211763,63735953541584,None,None,None
+211812,63735953541625,LM_WerbungGroß,None,LM_WerbungGroß
+211862,63735953541669,None,None,None
+211879,63735953541711,None,None,None
+211946,63735953541776,None,None,None
+211979,63735953541809,None,None,None
+212021,63735953541841,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+212071,63735953541874,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+212087,63735953541909,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+212137,63735953541945,None,None,None
+212146,63735953541974,None,LM_WerbungGroß,None
+212187,63735953542008,None,None,None
+212221,63735953542038,None,None,None
+212254,63735953542073,None,None,None
+212279,63735953542108,None,None,None
+212337,63735953542143,None,None,None
+212404,63735953542209,None,None,None
+212429,63735953542239,None,None,None
+212446,63735953542273,None,None,None
+212496,63735953542308,O_Wayfinding_L,None,None
+212529,63735953542340,O_Wayfinding_L,None,None
+212554,63735953542373,O_Wayfinding_L,None,None
+212587,63735953542405,O_Wayfinding_L,None,None
+212612,63735953542437,O_Wayfinding_L,None,O_Wayfinding_L
+212646,63735953542471,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+212687,63735953542506,O_Wayfinding_L,None,O_Wayfinding_L
+212721,63735953542539,O_Wayfinding_L,None,None
+212762,63735953542572,O_Wayfinding_L,None,None
+212796,63735953542606,None,None,None
+212821,63735953542640,LM_WerbungGroß,None,None
+212862,63735953542673,None,LM_WerbungGroß,None
+212879,63735953542707,None,None,None
+212921,63735953542741,None,None,None
+212962,63735953542777,None,None,None
+212996,63735953542807,None,None,None
+213021,63735953542839,None,None,None
+213054,63735953542873,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+213071,63735953542900,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+213104,63735953542935,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+213129,63735953542962,None,None,None
+213162,63735953542992,None,None,None
+213196,63735953543024,None,None,None
+213229,63735953543055,None,None,None
+213271,63735953543086,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+213296,63735953543118,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+213321,63735953543140,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+213354,63735953543162,None,None,None
+213362,63735953543184,None,None,None
+213387,63735953543206,None,None,None
+213412,63735953543228,None,None,None
+213437,63735953543251,None,None,None
+213454,63735953543272,None,None,None
+213470,63735953543294,None,None,None
+213495,63735953543316,None,None,None
+213520,63735953543339,None,None,None
+213545,63735953543361,None,None,None
+213562,63735953543384,None,None,None
+213579,63735953543405,None,None,None
+213612,63735953543428,None,None,None
+213637,63735953543450,None,None,None
+213645,63735953543471,None,None,None
+213679,63735953543493,None,None,None
+213695,63735953543516,None,None,None
+213720,63735953543538,None,None,None
+213745,63735953543561,None,None,None
+213754,63735953543583,None,None,None
+213795,63735953543605,None,None,None
+213812,63735953543628,None,None,None
+213845,63735953543650,None,None,None
+213854,63735953543673,None,None,None
+213879,63735953543694,None,None,None
+213895,63735953543717,None,None,None
+213912,63735953543739,None,None,None
+213945,63735953543761,None,None,None
+213970,63735953543783,None,Cube (4),None
+213987,63735953543806,Cube (4),Cube (4),Cube (4)
+214012,63735953543827,Cube (4),Cube (4),Cube (4)
+214045,63735953543849,Cube (4),Cube (4),Cube (4)
+214045,63735953543871,Cube (4),Cube (4),Cube (4)
+214054,63735953543894,Cube (4),Cube (4),Cube (4)
+214087,63735953543917,Cube (4),Cube (4),Cube (4)
+214129,63735953543939,Cube (4),Cube (4),Cube (4)
+214145,63735953543961,Cube (4),Cube (4),Cube (4)
+214179,63735953543983,Cube (4),Cube (4),Cube (4)
+214187,63735953544005,Cube (4),Cube (4),Cube (4)
+214204,63735953544027,Cube (4),Cube (4),Cube (4)
+214245,63735953544050,Cube (4),Cube (4),Cube (4)
+214254,63735953544072,Cube (4),Cube (4),Cube (4)
+214279,63735953544094,Cube (4),Cube (4),Cube (4)
+214304,63735953544116,Cube (4),Cube (4),Cube (4)
+214312,63735953544138,Cube (4),Cube (4),Cube (4)
+214354,63735953544161,Cube (4),Cube (4),Cube (4)
+214362,63735953544184,Cube (4),Cube (4),Cube (4)
+214395,63735953544207,Cube (4),Cube (4),Cube (4)
+214412,63735953544231,Cube (4),Cube (4),Cube (4)
+214429,63735953544254,Cube (4),Cube (4),Cube (4)
+214454,63735953544277,Cube (4),Cube (4),Cube (4)
+214487,63735953544300,Cube (4),Cube (4),Cube (4)
+214512,63735953544323,Cube (4),Cube (4),Cube (4)
+214520,63735953544346,Cube (4),Cube (4),Cube (4)
+214537,63735953544369,Cube (4),Cube (4),Cube (4)
+214537,63735953544378,Cube (4),Cube (4),Cube (4)
+214562,63735953544389,Cube (4),Cube (4),Cube (4)
+214562,63735953544400,Cube (4),Cube (4),Cube (4)
+214562,63735953544411,Cube (4),Cube (4),Cube (4)
+214595,63735953544422,Cube (4),Cube (4),Cube (4)
+214612,63735953544434,Cube (4),Cube (4),Cube (4)
+214612,63735953544445,Cube (4),Cube (4),Cube (4)
+214645,63735953544456,Cube (4),Cube (4),Cube (4)
+214654,63735953544467,Cube (4),Cube (4),Cube (4)
+214662,63735953544478,Cube (4),Cube (4),Cube (4)
+214662,63735953544489,Cube (4),Cube (4),Cube (4)
+214679,63735953544500,Cube (4),Cube (4),Cube (4)
+214704,63735953544511,Cube (4),Cube (4),Cube (4)
+214704,63735953544522,Cube (4),Cube (4),Cube (4)
+214720,63735953544534,Cube (4),None,Cube (4)
+214737,63735953544545,None,None,None
+214745,63735953544556,None,None,None
+214745,63735953544567,None,None,None
+214754,63735953544579,None,None,None
+214787,63735953544589,None,None,None
+214787,63735953544601,None,None,None
+214795,63735953544611,None,None,None
+214812,63735953544622,None,None,None
+214820,63735953544633,None,None,None
+214820,63735953544644,None,None,None
+214845,63735953544656,None,None,None
+214845,63735953544666,None,None,None
+214845,63735953544677,None,None,None
+214862,63735953544688,None,Cube (4),None
+214895,63735953544699,None,Cube (4),None
+214895,63735953544711,None,Cube (4),None
+214912,63735953544721,Cube (4),Cube (4),Cube (4)
+214920,63735953544733,Cube (4),Cube (4),Cube (4)
+214945,63735953544744,None,Cube (4),Cube (4)
+214945,63735953544755,Cube (4),Cube (4),Cube (4)
+214962,63735953544766,Cube (4),Cube (4),Cube (4)
+214970,63735953544777,Cube (4),Cube (4),Cube (4)
+214970,63735953544788,Cube (4),Cube (4),Cube (4)
+214978,63735953544799,Cube (4),Cube (4),Cube (4)
+215003,63735953544811,Cube (4),Cube (4),Cube (4)
+215003,63735953544821,Cube (4),Cube (4),Cube (4)
+215020,63735953544836,Cube (4),Cube (4),Cube (4)
+215037,63735953544843,Cube (4),Cube (4),Cube (4)
+215037,63735953544852,Cube (4),Cube (4),Cube (4)
+215053,63735953544863,Cube (4),Cube (4),Cube (4)
+215062,63735953544875,Cube (4),Cube (4),Cube (4)
+215062,63735953544886,Cube (4),Cube (4),Cube (4)
+215062,63735953544897,Cube (4),Cube (4),Cube (4)
+215087,63735953544908,Cube (4),Cube (4),Cube (4)
+215112,63735953544920,Cube (4),Cube (4),Cube (4)
+215112,63735953544931,Cube (4),Cube (4),Cube (4)
+215120,63735953544942,Cube (4),Cube (4),Cube (4)
+215137,63735953544953,Cube (4),Cube (4),Cube (4)
+215137,63735953544964,Cube (4),Cube (4),Cube (4)
+215162,63735953544975,Cube (4),Cube (4),Cube (4)
+215178,63735953544987,None,Cube (4),Cube (4)
+215178,63735953544997,None,None,None
+215195,63735953545008,None,None,None
+215212,63735953545019,None,None,None
+215228,63735953545031,None,None,None
+215228,63735953545042,None,None,None
+215237,63735953545053,LM_Mesh_B_RMVServicestore,None,None
+215262,63735953545064,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215262,63735953545075,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215278,63735953545086,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215287,63735953545098,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215287,63735953545108,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215303,63735953545119,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215320,63735953545131,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215345,63735953545141,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215345,63735953545153,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215353,63735953545164,None,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215370,63735953545175,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215370,63735953545187,None,None,None
+215387,63735953545200,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215395,63735953545214,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore,LM_Mesh_B_RMVServicestore
+215437,63735953545237,LM_WerbungGroß,B_Ebene Bodenplatte ,LM_Mesh_B_RMVServicestore
+215470,63735953545267,B_Ebene Bodenplatte ,None,None
+215503,63735953545306,LM_Fahrkarten-Automat,LM_WerbungGroß,LM_WerbungGroß
+215537,63735953545339,None,LM_Fahrkarten-Automat,1_Fahrstuhl
+215562,63735953545376,None,None,None
+215612,63735953545424,None,LM_Vitrine,None
+215645,63735953545470,None,LM_Vitrineninhalt,LM_Vitrineninhalt
+215695,63735953545514,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+215745,63735953545557,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+215787,63735953545603,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrine
+215845,63735953545647,LM_Fahrkarten-Automat,LM_Vitrine,LM_Fahrkarten-Automat
+215895,63735953545715,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+215987,63735953545789,None,None,None
+216028,63735953545853,15_Werbetafel 1 (24),B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216095,63735953545914,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216153,63735953545976,LM_Vitrine,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216228,63735953546044,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216253,63735953546075,None,None,None
+216287,63735953546105,None,None,None
+216320,63735953546139,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216362,63735953546174,None,None,None
+216403,63735953546205,None,None,None
+216428,63735953546237,None,None,B_Ebene Bodenplatte 
+216461,63735953546270,None,None,None
+216495,63735953546302,None,None,None
+216520,63735953546339,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216561,63735953546372,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216586,63735953546402,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216628,63735953546435,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216661,63735953546469,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216703,63735953546501,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216728,63735953546536,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216770,63735953546568,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216795,63735953546599,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216820,63735953546635,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216853,63735953546665,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216886,63735953546700,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216920,63735953546732,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216945,63735953546765,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+216986,63735953546799,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+217011,63735953546822,None,None,None
+217020,63735953546847,None,None,None
+217070,63735953546888,None,None,None
+217095,63735953546914,None,None,None
+217136,63735953546956,None,None,None
+217195,63735953547003,None,None,None
+217228,63735953547047,None,None,None
+217286,63735953547095,None,None,None
+217328,63735953547141,None,None,None
+217353,63735953547185,None,None,None
+217428,63735953547235,None,None,None
+217470,63735953547279,None,None,None
+217520,63735953547326,None,None,None
+217553,63735953547369,None,None,None
+217595,63735953547413,None,None,None
+217645,63735953547458,None,None,None
+217695,63735953547503,None,None,None
+217728,63735953547546,None,None,None
+217770,63735953547592,None,None,None
+217820,63735953547638,None,None,None
+217878,63735953547684,None,None,None
+217928,63735953547724,None,None,None
+217986,63735953547794,None,None,None
+218044,63735953547856,None,None,None
+218103,63735953547922,None,None,None
+218169,63735953547986,None,O_Wayfinding_L,None
+218236,63735953548052,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+218294,63735953548117,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+218378,63735953548185,None,None,None
+218411,63735953548214,None,None,None
+218436,63735953548248,None,None,None
+218461,63735953548281,None,None,None
+218494,63735953548317,None,None,None
+218511,63735953548348,None,None,None
+218544,63735953548383,None,None,O_Wayfinding_L
+218578,63735953548416,None,None,None
+218628,63735953548449,None,None,None
+218661,63735953548483,None,None,None
+218703,63735953548517,None,None,None
+218728,63735953548548,None,None,None
+218761,63735953548582,273|Mesh|C|GleisabschnittA.001 (1),None,None
+218803,63735953548617,None,None,None
+218836,63735953548649,None,None,None
+218903,63735953548716,None,None,None
+218919,63735953548750,None,273|Mesh|C|GleisabschnittA.001 (1),None
+218936,63735953548783,None,None,None
+218994,63735953548816,None,None,None
+219036,63735953548852,None,None,None
+219094,63735953548918,None,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+219169,63735953548981,None,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+219203,63735953549015,None,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+219228,63735953549051,None,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+219261,63735953549085,None,None,273|Mesh|C|GleisabschnittA.001 (1)
+219278,63735953549120,None,None,273|Mesh|C|GleisabschnittA.001 (1)
+219369,63735953549187,None,None,273|Mesh|C|GleisabschnittA.001 (1)
+219444,63735953549253,None,None,None
+219502,63735953549316,None,None,None
+219527,63735953549347,None,None,None
+219561,63735953549383,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+219586,63735953549414,None,None,None
+219644,63735953549449,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+219669,63735953549483,O_Wayfinding_L,None,O_Wayfinding_L
+219702,63735953549517,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+219752,63735953549550,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+219761,63735953549582,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+219794,63735953549614,None,O_Wayfinding_L,None
+219811,63735953549646,None,None,None
+219877,63735953549679,None,O_Wayfinding_L,None
+219902,63735953549713,None,None,None
+219919,63735953549750,None,O_Wayfinding_L,O_Wayfinding_L
+219961,63735953549783,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+219986,63735953549813,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220027,63735953549848,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220077,63735953549886,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220111,63735953549949,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220152,63735953549983,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220186,63735953550014,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220227,63735953550048,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220261,63735953550080,None,None,None
+220311,63735953550114,O_Wayfinding_L,None,O_Wayfinding_L
+220327,63735953550145,O_Wayfinding_L,None,O_Wayfinding_L
+220369,63735953550181,O_Wayfinding_L,None,O_Wayfinding_L
+220394,63735953550213,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220427,63735953550248,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220461,63735953550280,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220494,63735953550310,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220536,63735953550347,O_Wayfinding_L,None,O_Wayfinding_L
+220569,63735953550379,O_Wayfinding_L,None,O_Wayfinding_L
+220594,63735953550412,O_Wayfinding_L,None,O_Wayfinding_L
+220611,63735953550448,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220661,63735953550481,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220694,63735953550512,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220719,63735953550543,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220752,63735953550578,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220811,63735953550612,O_Wayfinding_L,None,O_Wayfinding_L
+220836,63735953550644,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+220861,63735953550679,None,O_Wayfinding_L,O_Wayfinding_L
+220877,63735953550713,None,None,None
+220902,63735953550744,None,None,None
+220952,63735953550778,None,None,None
+221002,63735953550823,None,None,None
+221035,63735953550872,None,None,None
+221102,63735953550917,None,None,None
+221144,63735953550963,None,None,None
+221185,63735953551009,None,None,None
+221219,63735953551053,None,None,None
+221294,63735953551102,None,None,None
+221319,63735953551146,None,None,None
+221369,63735953551192,None,None,None
+221427,63735953551234,None,None,None
+221460,63735953551280,None,None,None
+221510,63735953551323,15_Werbetafel 1 (23),15_Werbetafel 1 (23),15_Werbetafel 1 (23)
+221560,63735953551369,15_Werbetafel 1 (22),LM_Werbetafel_Display,LM_Werbetafel_Display
+221594,63735953551414,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+221652,63735953551455,LM_Werbetafel_Display,None,15_Werbetafel 1 (22)
+221685,63735953551501,None,None,None
+221735,63735953551546,None,O_Wayfinding_L,O_Wayfinding_L
+221777,63735953551590,None,None,None
+221819,63735953551633,None,None,None
+221860,63735953551680,None,None,None
+221902,63735953551723,None,None,None
+221960,63735953551787,LM_Vitrineninhalt,LM_Vitrine,LM_Vitrine
+222044,63735953551857,None,LM_Vitrineninhalt,LM_Vitrine
+222102,63735953551925,None,15_Werbetafel 1 (18),None
+222160,63735953551989,None,None,None
+222235,63735953552054,None,None,None
+222310,63735953552121,None,None,O_Wayfinding_L
+222377,63735953552191,O_Wayfinding_L,O_Wayfinding_L,O_Wayfinding_L
+222452,63735953552258,None,None,None
+222519,63735953552327,None,273|Mesh|C|GleisabschnittA.001 (1),None
+222585,63735953552387,None,None,None
+222643,63735953552460,None,None,None
+222710,63735953552520,33_VitrinenAnWand (2),None,33_VitrinenAnWand (2)
+222768,63735953552589,None,None,None
+222835,63735953552652,None,None,None
+222910,63735953552715,None,None,None
+222935,63735953552749,None,None,B_Ebene Bodenplatte 
+222960,63735953552782,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+222993,63735953552813,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+223027,63735953552843,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+223060,63735953552875,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+223093,63735953552908,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+223127,63735953552940,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+223152,63735953552974,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+223202,63735953553006,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+223227,63735953553039,None,None,None
+223260,63735953553071,None,None,None
+223293,63735953553105,None,None,None
+223327,63735953553138,None,None,None
+223352,63735953553170,None,None,None
+223393,63735953553206,None,None,None
+223410,63735953553236,None,None,None
+223460,63735953553269,None,None,None
+223485,63735953553303,None,None,None
+223518,63735953553334,None,None,None
+223560,63735953553369,None,None,None
+223577,63735953553402,None,None,None
+223618,63735953553424,None,None,None
+223627,63735953553447,None,None,None
+223643,63735953553467,None,None,None
+223668,63735953553491,None,None,None
+223693,63735953553513,None,None,None
+223718,63735953553536,None,None,None
+223752,63735953553556,None,None,None
+223760,63735953553580,None,None,None
+223785,63735953553602,None,None,None
+223802,63735953553625,None,None,None
+223843,63735953553645,None,None,None
+223852,63735953553668,None,None,None
+223868,63735953553689,None,None,None
+223893,63735953553713,None,None,None
+223918,63735953553735,None,None,None
+223927,63735953553757,None,None,None
+223968,63735953553780,None,O_Wayfinding_L,None
+223985,63735953553801,None,O_Wayfinding_L,None
+224010,63735953553823,None,None,O_Wayfinding_L
+224027,63735953553845,O_Wayfinding_L,None,None
+224052,63735953553867,O_Wayfinding_L,None,None
+224060,63735953553890,None,None,None
+224085,63735953553912,None,None,None
+224126,63735953553937,None,None,None
+224126,63735953553957,None,None,None
+224160,63735953553980,None,None,None
+224160,63735953554001,None,None,None
+224193,63735953554023,None,None,None
+224235,63735953554045,None,None,None
+224251,63735953554069,None,O_Wayfinding_L,O_Wayfinding_L
+224260,63735953554089,None,None,None
+224310,63735953554113,None,O_Wayfinding_L,O_Wayfinding_L
+224318,63735953554134,None,O_Wayfinding_L,O_Wayfinding_L
+224343,63735953554156,None,O_Wayfinding_L,None
+224368,63735953554179,O_Wayfinding_L,None,O_Wayfinding_L
+224393,63735953554202,O_Wayfinding_L,None,O_Wayfinding_L
+224410,63735953554226,O_Wayfinding_L,None,None
+224426,63735953554247,O_Wayfinding_L,None,None
+224451,63735953554268,None,None,None
+224476,63735953554293,None,None,None
+224493,63735953554315,None,None,None
+224518,63735953554337,None,None,None
+224535,63735953554357,None,None,None
+224560,63735953554380,None,None,None
+224593,63735953554403,None,None,None
+224601,63735953554425,None,None,None
+224626,63735953554447,None,None,None
+224668,63735953554470,None,None,None
+224693,63735953554492,None,None,None
+224701,63735953554514,None,None,None
+224718,63735953554537,None,None,None
+224743,63735953554561,None,None,None
+224776,63735953554584,None,None,None
+224826,63735953554630,None,None,None
+224835,63735953554654,None,None,None
+224885,63735953554698,None,None,None
+224918,63735953554741,None,None,None
+224960,63735953554786,None,None,None
+225010,63735953554831,None,None,None
+225060,63735953554874,None,None,None
+225118,63735953554921,None,None,None
+225151,63735953554964,None,None,None
+225193,63735953555012,None,None,None
+225235,63735953555055,None,None,None
+225285,63735953555104,None,None,None
+225335,63735953555146,None,None,None
+225385,63735953555191,None,None,None
+225426,63735953555242,None,None,None
+225493,63735953555313,None,O_Wayfinding_L,None
+225560,63735953555378,None,None,None
+225618,63735953555443,None,None,None
+225693,63735953555510,None,None,None
+225768,63735953555578,None,None,None
+225826,63735953555644,None,None,None
+225893,63735953555712,None,None,None
+225959,63735953555776,None,None,None
+226026,63735953555844,None,None,None
+226093,63735953555910,None,None,None
+226159,63735953555976,None,None,None
+226226,63735953556041,O_Wayfinding_L,None,None
+226268,63735953556109,None,None,None
+226368,63735953556176,O_Wayfinding_L,None,None
+226426,63735953556243,None,None,None
+226493,63735953556312,15_Werbetafel 1 (19),15_Werbetafel 1 (19),15_Werbetafel 1 (19)
+226559,63735953556377,None,LM_Vitrine,LM_Vitrine
+226626,63735953556440,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrine
+226701,63735953556509,None,LM_Vitrineninhalt,LM_Vitrine
+226768,63735953556572,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+226826,63735953556643,LM_Vitrine,None,None
+226893,63735953556709,LM_Vitrineninhalt,LM_Vitrine,LM_Vitrineninhalt
+226959,63735953556770,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+226993,63735953556806,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+227051,63735953556871,LM_Vitrineninhalt,LM_Vitrine,LM_Vitrine
+227126,63735953556940,LM_Vitrineninhalt,LM_Vitrine,LM_Vitrineninhalt
+227192,63735953557007,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrine
+227251,63735953557072,LM_Vitrine,None,None
+227326,63735953557143,None,LM_Vitrineninhalt,LM_Vitrineninhalt
+227401,63735953557204,None,None,None
+227451,63735953557270,273|Mesh|C|GleisabschnittA.001 (1),None,None
+227526,63735953557340,LM_Vitrineninhalt,LM_Vitrine,LM_Vitrine
+227584,63735953557403,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+227617,63735953557439,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+227692,63735953557509,64|Mesh|C|Tunnel.002,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+227759,63735953557570,64|Mesh|C|Tunnel.002,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+227826,63735953557638,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+227892,63735953557706,None,None,None
+227951,63735953557774,None,None,None
+228026,63735953557840,None,None,None
+228092,63735953557911,None,None,None
+228159,63735953557973,None,None,None
+228226,63735953558044,None,None,None
+228267,63735953558108,None,None,None
+228367,63735953558175,None,None,None
+228426,63735953558241,None,None,None
+228492,63735953558310,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+228559,63735953558374,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+228626,63735953558439,None,None,None
+228659,63735953558499,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+228725,63735953558532,15_Werbetafel 1 (24),15_Werbetafel 1 (24),15_Werbetafel 1 (24)
+228750,63735953558564,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+228775,63735953558598,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,LM_Vitrine
+228809,63735953558630,LM_Vitrine,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+228850,63735953558662,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+228875,63735953558695,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+228909,63735953558727,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+228959,63735953558761,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+228992,63735953558794,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229025,63735953558826,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229059,63735953558860,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229084,63735953558893,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229117,63735953558923,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229150,63735953558957,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229184,63735953558991,15_Werbetafel 1 (25),None,None
+229192,63735953559025,None,None,None
+229242,63735953559056,None,None,None
+229284,63735953559092,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229292,63735953559121,None,B_Ebene Bodenplatte ,None
+229342,63735953559154,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229375,63735953559188,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229400,63735953559210,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229425,63735953559233,None,B_Ebene Bodenplatte ,None
+229459,63735953559256,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229467,63735953559278,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229475,63735953559299,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229509,63735953559323,None,B_Ebene Bodenplatte ,None
+229525,63735953559343,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229542,63735953559364,None,B_Ebene Bodenplatte ,None
+229575,63735953559387,None,B_Ebene Bodenplatte ,None
+229592,63735953559409,None,None,None
+229617,63735953559431,None,None,None
+229642,63735953559454,None,None,None
+229675,63735953559476,None,None,None
+229684,63735953559500,None,None,None
+229725,63735953559528,None,None,None
+229750,63735953559565,None,None,None
+229775,63735953559588,B_Ebene Bodenplatte ,None,B_Ebene Bodenplatte 
+229800,63735953559610,B_Ebene Bodenplatte ,None,None
+229817,63735953559632,None,None,B_Ebene Bodenplatte 
+229842,63735953559654,None,None,B_Ebene Bodenplatte 
+229859,63735953559675,B_Ebene Bodenplatte ,None,None
+229892,63735953559699,None,None,None
+229900,63735953559721,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+229925,63735953559743,B_Ebene Bodenplatte ,None,None
+229950,63735953559764,None,None,None
+229967,63735953559787,None,None,None
+229992,63735953559810,None,None,None
+230009,63735953559832,None,None,None
+230034,63735953559856,None,None,None
+230067,63735953559873,None,None,None
+230084,63735953559896,None,None,None
+230092,63735953559915,None,None,None
+230117,63735953559937,None,None,B_Ebene Bodenplatte 
+230134,63735953559959,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230175,63735953559981,None,B_Ebene Bodenplatte ,None
+230192,63735953560005,None,B_Ebene Bodenplatte ,None
+230209,63735953560027,None,B_Ebene Bodenplatte ,None
+230233,63735953560050,None,B_Ebene Bodenplatte ,None
+230258,63735953560072,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230283,63735953560093,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230292,63735953560115,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230325,63735953560137,None,B_Ebene Bodenplatte ,None
+230333,63735953560162,None,None,None
+230333,63735953560183,None,None,None
+230392,63735953560205,None,B_Ebene Bodenplatte ,None
+230400,63735953560226,None,B_Ebene Bodenplatte ,None
+230400,63735953560248,None,B_Ebene Bodenplatte ,None
+230458,63735953560270,None,B_Ebene Bodenplatte ,None
+230467,63735953560295,None,B_Ebene Bodenplatte ,None
+230508,63735953560315,None,B_Ebene Bodenplatte ,None
+230525,63735953560337,None,B_Ebene Bodenplatte ,None
+230542,63735953560359,None,B_Ebene Bodenplatte ,None
+230567,63735953560383,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230583,63735953560404,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230608,63735953560426,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230633,63735953560449,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230650,63735953560471,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230667,63735953560483,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230683,63735953560504,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230700,63735953560518,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230717,63735953560536,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230725,63735953560548,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230742,63735953560561,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230758,63735953560580,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230767,63735953560591,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230800,63735953560603,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230800,63735953560613,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230808,63735953560625,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230833,63735953560636,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230833,63735953560647,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230842,63735953560658,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230858,63735953560671,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230875,63735953560692,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230892,63735953560705,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230917,63735953560717,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230925,63735953560735,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230933,63735953560747,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230933,63735953560758,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230958,63735953560769,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+230967,63735953560781,None,None,None
+230967,63735953560792,None,None,None
+230992,63735953560804,None,None,None
+231000,63735953560816,None,None,None
+231017,63735953560837,None,None,None
+231025,63735953560850,None,None,None
+231025,63735953560868,None,None,None
+231058,63735953560880,None,None,None
+231092,63735953560892,None,None,None
+231092,63735953560903,None,None,None
+231100,63735953560915,None,None,None
+231117,63735953560927,None,None,None
+231125,63735953560947,None,None,None
+231142,63735953560958,None,None,None
+231167,63735953560969,None,None,None
+231167,63735953560981,None,None,None
+231175,63735953560993,None,None,None
+231200,63735953561005,None,None,None
+231208,63735953561025,None,None,None
+231233,63735953561037,None,None,None
+231233,63735953561048,None,None,None
+231250,63735953561060,None,None,None
+231258,63735953561072,None,None,None
+231275,63735953561092,None,None,None
+231292,63735953561104,None,None,None
+231300,63735953561115,None,None,None
+231300,63735953561126,None,None,None
+231317,63735953561139,None,None,None
+231342,63735953561157,None,None,None
+231358,63735953561168,None,None,None
+231375,63735953561180,None,None,None
+231375,63735953561190,None,None,None
+231392,63735953561201,None,None,None
+231400,63735953561213,None,None,None
+231400,63735953561224,None,None,None
+231417,63735953561236,None,None,None
+231433,63735953561248,None,None,None
+231458,63735953561258,None,None,None
+231458,63735953561270,None,None,None
+231467,63735953561282,None,None,None
+231467,63735953561295,None,None,None
+231492,63735953561313,None,None,None
+231517,63735953561325,None,None,None
+231517,63735953561336,None,None,None
+231533,63735953561346,None,None,None
+231550,63735953561357,None,None,None
+231558,63735953561369,None,None,None
+231558,63735953561380,None,None,None
+231575,63735953561391,None,None,None
+231592,63735953561402,None,None,None
+231592,63735953561414,None,None,None
+231600,63735953561424,None,None,None
+231625,63735953561435,None,None,None
+231625,63735953561447,None,None,None
+231633,63735953561459,None,None,None
+231658,63735953561470,None,None,None
+231667,63735953561491,None,None,None
+231692,63735953561503,None,None,None
+231700,63735953561514,None,None,None
+231700,63735953561526,None,None,None
+231725,63735953561537,None,None,None
+231733,63735953561548,None,None,None
+231733,63735953561558,None,None,None
+231742,63735953561569,None,None,None
+231766,63735953561580,None,None,None
+231783,63735953561591,None,None,None
+231783,63735953561604,None,None,None
+231800,63735953561615,None,None,None
+231825,63735953561626,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+231825,63735953561637,None,None,None
+231858,63735953561658,None,None,None
+231858,63735953561669,None,None,None
+231866,63735953561679,None,None,None
+231883,63735953561690,None,None,None
+231891,63735953561701,None,None,None
+231891,63735953561712,None,None,None
+231900,63735953561724,None,None,None
+231925,63735953561735,None,None,None
+231925,63735953561746,None,None,None
+231941,63735953561759,None,None,None
+231958,63735953561771,None,None,None
+231975,63735953561790,None,None,None
+231991,63735953561801,None,None,None
+231991,63735953561812,None,None,None
+232000,63735953561823,None,None,None
+232016,63735953561835,None,None,None
+232041,63735953561845,None,None,None
+232041,63735953561857,None,None,None
+232058,63735953561868,None,None,None
+232066,63735953561879,None,None,None
+232066,63735953561890,None,None,None
+232083,63735953561902,None,None,None
+232100,63735953561915,None,None,None
+232125,63735953561935,None,None,None
+232133,63735953561947,None,None,None
+232150,63735953561958,None,None,None
+232150,63735953561969,None,None,None
+232158,63735953561983,None,None,None
+232175,63735953561994,None,None,None
+232191,63735953562013,None,None,None
+232216,63735953562025,None,None,None
+232233,63735953562036,None,None,None
+232233,63735953562047,None,None,None
+232250,63735953562059,None,None,None
+232250,63735953562071,None,None,None
+232266,63735953562084,None,None,None
+232300,63735953562103,None,None,None
+232300,63735953562114,None,None,None
+232316,63735953562125,None,None,None
+232325,63735953562136,None,None,None
+232333,63735953562147,None,None,None
+232333,63735953562158,None,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+232350,63735953562170,None,None,None
+232366,63735953562180,None,None,None
+232366,63735953562191,None,None,None
+232391,63735953562201,None,None,None
+232400,63735953562212,None,None,None
+232400,63735953562223,None,None,None
+232425,63735953562234,None,None,None
+232433,63735953562247,None,None,None
+232433,63735953562256,None,None,None
+232458,63735953562268,None,None,None
+232466,63735953562279,None,None,None
+232466,63735953562290,None,None,None
+232483,63735953562302,None,None,None
+232500,63735953562313,None,None,None
+232525,63735953562324,None,None,None
+232525,63735953562335,None,None,None
+232533,63735953562349,None,None,None
+232550,63735953562359,None,None,None
+232550,63735953562369,None,None,None
+232558,63735953562381,None,None,None
+232575,63735953562392,None,None,None
+232575,63735953562402,None,None,None
+232591,63735953562413,None,None,None
+232608,63735953562423,None,None,None
+232608,63735953562434,None,None,None
+232608,63735953562446,None,None,None
+232633,63735953562457,None,None,None
+232658,63735953562468,None,None,None
+232658,63735953562479,None,None,None
+232675,63735953562490,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232691,63735953562501,None,B_Ebene Bodenplatte ,None
+232691,63735953562512,None,B_Ebene Bodenplatte ,None
+232700,63735953562525,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232725,63735953562536,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232733,63735953562547,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232733,63735953562558,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232750,63735953562569,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232766,63735953562580,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232766,63735953562591,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232791,63735953562603,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232808,63735953562614,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232808,63735953562625,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232825,63735953562635,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232833,63735953562647,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232858,63735953562659,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232858,63735953562669,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232866,63735953562681,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232883,63735953562694,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232900,63735953562706,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232908,63735953562723,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232908,63735953562734,None,B_Ebene Bodenplatte ,None
+232925,63735953562744,None,None,None
+232933,63735953562756,None,None,None
+232933,63735953562767,None,B_Ebene Bodenplatte ,None
+232966,63735953562778,None,None,None
+232975,63735953562789,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232975,63735953562800,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+232991,63735953562810,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233016,63735953562822,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233033,63735953562834,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233033,63735953562845,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233050,63735953562856,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233058,63735953562866,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233058,63735953562877,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233066,63735953562888,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233091,63735953562900,None,B_Ebene Bodenplatte ,None
+233091,63735953562911,None,B_Ebene Bodenplatte ,None
+233100,63735953562922,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233125,63735953562933,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233125,63735953562944,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233133,63735953562955,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233150,63735953562966,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233150,63735953562976,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233150,63735953562989,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233175,63735953563000,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233200,63735953563010,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233200,63735953563021,None,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233225,63735953563032,None,None,None
+233233,63735953563045,None,None,None
+233233,63735953563055,None,None,None
+233250,63735953563066,None,None,None
+233258,63735953563077,None,None,None
+233291,63735953563089,None,None,None
+233291,63735953563100,None,None,None
+233299,63735953563111,None,None,None
+233316,63735953563123,None,None,None
+233316,63735953563134,None,None,None
+233333,63735953563146,None,None,None
+233341,63735953563157,None,None,None
+233358,63735953563170,None,None,None
+233358,63735953563180,None,None,None
+233366,63735953563191,None,None,None
+233391,63735953563203,None,None,None
+233391,63735953563214,None,None,None
+233399,63735953563224,None,None,None
+233433,63735953563236,None,None,None
+233433,63735953563246,None,None,None
+233441,63735953563258,B_Ebene Bodenplatte ,None,None
+233458,63735953563268,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233458,63735953563279,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233466,63735953563290,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233491,63735953563301,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233491,63735953563312,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233499,63735953563322,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233524,63735953563334,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+233541,63735953563345,None,None,None
+233541,63735953563356,None,None,None
+233558,63735953563368,None,None,None
+233574,63735953563379,None,None,None
+233574,63735953563391,None,None,None
+233591,63735953563402,None,None,None
+233599,63735953563412,None,None,None
+233599,63735953563424,None,None,None
+233608,63735953563435,None,None,None
+233633,63735953563446,None,None,None
+233633,63735953563458,None,None,None
+233633,63735953563468,None,None,None
+233658,63735953563479,None,None,None
+233691,63735953563491,None,None,None
+233691,63735953563502,None,None,None
+233699,63735953563514,None,None,None
+233716,63735953563524,None,None,None
+233716,63735953563535,None,None,None
+233724,63735953563547,None,None,None
+233749,63735953563558,None,None,None
+233766,63735953563570,None,None,None
+233766,63735953563580,None,None,None
+233783,63735953563591,None,None,None
+233791,63735953563603,None,None,None
+233791,63735953563614,None,None,None
+233808,63735953563626,None,None,None
+233833,63735953563649,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+233858,63735953563672,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+233899,63735953563695,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+233916,63735953563717,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+233924,63735953563738,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+233958,63735953563762,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+233966,63735953563785,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+233999,63735953563808,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234016,63735953563830,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234041,63735953563853,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234066,63735953563875,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234091,63735953563897,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234108,63735953563920,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234124,63735953563943,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234166,63735953563967,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234174,63735953563992,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234216,63735953564035,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234274,63735953564081,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234324,63735953564125,None,None,None
+234341,63735953564168,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+234374,63735953564192,LM_WerbungGroß,64|Mesh|C|Tunnel.003,LM_WerbungGroß
+234424,63735953564235,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234458,63735953564279,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234508,63735953564325,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234566,63735953564368,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234608,63735953564414,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234649,63735953564460,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234683,63735953564503,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234733,63735953564548,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234774,63735953564594,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234833,63735953564638,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234874,63735953564682,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234916,63735953564728,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+234957,63735953564771,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+235007,63735953564816,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+235057,63735953564860,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+235099,63735953564905,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+235149,63735953564949,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+235166,63735953564994,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+235207,63735953565039,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+235266,63735953565085,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+235316,63735953565129,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+235366,63735953565173,PlaneSafety 1 (1),64|Mesh|C|Tunnel.003,PlaneSafety 1 (1)
+235416,63735953565219,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+235441,63735953565263,PlaneSafety 1 (1),64|Mesh|C|Tunnel.003,PlaneSafety 1 (1)
+235499,63735953565307,O_Wayfinding_L,B_Ebene Bodenplatte ,PlaneSafety 1 (1)
+235549,63735953565352,64|Mesh|C|Tunnel.003,PlaneSafety 1 (1),O_Wayfinding_L
+235591,63735953565397,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+235607,63735953565440,PlaneSafety 1 (1),64|Mesh|C|Tunnel.003,PlaneSafety 1 (1)
+235674,63735953565485,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+235732,63735953565544,64|Mesh|C|Tunnel.003,PlaneSafety 1 (1),PlaneSafety 1 (1)
+235799,63735953565610,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+235832,63735953565643,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+235891,63735953565710,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+235932,63735953565746,64|Mesh|C|Tunnel.003,PlaneSafety 1 (1),64|Mesh|C|Tunnel.003
+235999,63735953565814,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236066,63735953565875,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236099,63735953565911,PlaneSafety 1 (1),64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236166,63735953565979,PlaneSafety 1 (1),64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236232,63735953566049,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+236307,63735953566112,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236382,63735953566180,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236449,63735953566243,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236515,63735953566310,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236574,63735953566376,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236607,63735953566410,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236640,63735953566444,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236724,63735953566511,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236749,63735953566544,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236815,63735953566610,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236890,63735953566682,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236940,63735953566743,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+236974,63735953566774,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+237015,63735953566810,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+237049,63735953566843,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+237074,63735953566877,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+237090,63735953566909,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+237132,63735953566945,LM_Vitrineninhalt,64|Mesh|C|Tunnel.003,LM_Vitrineninhalt
+237199,63735953567012,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+237240,63735953567077,LM_Vitrine,LM_Vitrine,LM_Vitrine
+237324,63735953567141,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+237374,63735953567177,PlaneSafety 1 (1),B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+237432,63735953567243,PlaneSafety 1 (1),B_Ebene Bodenplatte ,PlaneSafety 1 (1)
+237474,63735953567277,O_Wayfinding_L,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+237515,63735953567345,None,None,None
+237574,63735953567408,None,None,None
+237624,63735953567444,None,None,None
+237707,63735953567511,None,None,None
+237774,63735953567576,None,273|Mesh|C|GleisabschnittA.001 (1),None
+237799,63735953567612,None,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+237865,63735953567675,273|Mesh|C|GleisabschnittA.001 (1),None,273|Mesh|C|GleisabschnittA.001 (1)
+237899,63735953567710,None,None,None
+237965,63735953567776,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+238007,63735953567841,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+238065,63735953567876,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,LM_Vitrine
+238132,63735953567942,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+238165,63735953567974,LM_Vitrine,B_Ebene Bodenplatte ,LM_Vitrine
+238198,63735953568011,LM_Vitrine,B_Ebene Bodenplatte ,LM_Vitrine
+238257,63735953568076,LM_Vitrine,LM_Vitrine,B_Ebene Bodenplatte 
+238323,63735953568144,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238398,63735953568214,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238440,63735953568272,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238498,63735953568309,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238532,63735953568338,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238565,63735953568374,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238598,63735953568406,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238623,63735953568439,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238632,63735953568473,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238690,63735953568506,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238723,63735953568539,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+238765,63735953568573,15_Werbetafel 1 (5),15_Werbetafel 1 (5),15_Werbetafel 1 (5)
+238798,63735953568606,15_Werbetafel 1 (5),15_Werbetafel 1 (5),15_Werbetafel 1 (5)
+238832,63735953568639,None,None,None
+238865,63735953568672,None,None,None
+238890,63735953568705,None,None,None
+238932,63735953568738,None,None,None
+238957,63735953568772,None,None,None
+239007,63735953568810,None,None,None
+239032,63735953568840,None,None,None
+239065,63735953568873,None,None,None
+239098,63735953568907,None,None,None
+239132,63735953568942,None,None,None
+239165,63735953568975,None,None,None
+239198,63735953569009,None,LM_Werbetafel_Display,None
+239232,63735953569043,None,None,None
+239265,63735953569075,None,None,None
+239298,63735953569109,None,None,None
+239323,63735953569140,None,B_Ebene Bodenplatte ,None
+239365,63735953569172,None,B_Ebene Bodenplatte ,None
+239390,63735953569209,None,B_Ebene Bodenplatte ,None
+239423,63735953569239,None,None,None
+239465,63735953569275,LM-Fahrstuhl-Scheiben,None,LM-Fahrstuhl-Scheiben
+239498,63735953569310,LM-Fahrstuhl-Scheiben,None,LM-Fahrstuhl-Scheiben
+239523,63735953569343,1_Fahrstuhl (2),None,None
+239556,63735953569376,None,None,None
+239565,63735953569408,None,None,None
+239615,63735953569442,Cube (3),Cube (3),Cube (3)
+239698,63735953569509,Cube (3),Cube (3),Cube (3)
+239765,63735953569576,Cube (3),Cube (3),Cube (3)
+239806,63735953569640,Cube (3),Cube (3),Cube (3)
+239831,63735953569674,Cube (3),Cube (3),Cube (3)
+239890,63735953569710,None,None,None
+239965,63735953569777,None,None,None
+239998,63735953569811,None,None,None
+240065,63735953569875,None,None,None
+240098,63735953569912,None,None,None
+240148,63735953569976,None,None,None
+240198,63735953570010,None,None,None
+240265,63735953570076,None,None,None
+240298,63735953570111,None,None,None
+240365,63735953570179,None,273|Mesh|C|GleisabschnittA.001 (1),None
+240431,63735953570243,None,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+240490,63735953570309,273|Mesh|C|GleisabschnittA.001 (1),None,273|Mesh|C|GleisabschnittA.001 (1)
+240548,63735953570377,None,None,None
+240623,63735953570446,Cube,LM_Vitrine,41_Liniennetzplan
+240698,63735953570510,None,15_Werbetafel 1 (17),15_Werbetafel 1 (17)
+240765,63735953570576,None,PlaneSafety 1 (1),PlaneSafety 1 (1)
+240798,63735953570612,None,15_Werbetafel 1 (12),15_Werbetafel 1 (12)
+240856,63735953570678,PlaneSafety 1 (1),64|Mesh|C|Tunnel.003,None
+240931,63735953570751,None,None,None
+240998,63735953570806,None,None,None
+241023,63735953570843,None,None,None
+241089,63735953570908,None,None,None
+241139,63735953570947,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+241189,63735953571009,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+241256,63735953571075,None,None,None
+241289,63735953571103,None,None,None
+241323,63735953571138,None,None,None
+241339,63735953571169,None,None,None
+241381,63735953571201,None,None,None
+241414,63735953571233,None,None,None
+241456,63735953571265,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+241498,63735953571297,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+241514,63735953571328,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+241548,63735953571360,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+241573,63735953571390,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+241614,63735953571422,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+241648,63735953571453,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+241681,63735953571484,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+241698,63735953571517,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+241739,63735953571550,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+241773,63735953571583,None,LM_WerbungGroß,None
+241789,63735953571617,None,None,None
+241839,63735953571638,None,None,None
+241856,63735953571660,None,None,None
+241873,63735953571682,None,None,None
+241889,63735953571705,None,None,None
+241898,63735953571727,None,None,None
+241931,63735953571750,None,None,None
+241948,63735953571772,None,None,None
+241981,63735953571793,None,None,None
+241998,63735953571817,None,None,None
+242006,63735953571839,None,None,None
+242056,63735953571862,None,None,None
+242064,63735953571883,None,None,None
+242098,63735953571907,None,None,None
+242106,63735953571927,None,None,None
+242131,63735953571950,None,None,None
+242164,63735953571972,None,None,None
+242189,63735953571995,None,None,None
+242198,63735953572017,None,None,None
+242231,63735953572040,None,None,None
+242239,63735953572062,None,None,None
+242256,63735953572083,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+242298,63735953572106,None,None,None
+242306,63735953572128,None,None,None
+242339,63735953572150,None,None,None
+242356,63735953572172,None,None,None
+242398,63735953572195,None,None,None
+242406,63735953572218,None,None,None
+242423,63735953572239,None,None,None
+242439,63735953572261,None,PlaneSafety 1 (1),PlaneSafety 1 (1)
+242464,63735953572283,PlaneSafety 1 (1),None,PlaneSafety 1 (1)
+242489,63735953572306,PlaneSafety 1 (1),None,PlaneSafety 1 (1)
+242506,63735953572329,PlaneSafety 1 (1),None,PlaneSafety 1 (1)
+242539,63735953572351,PlaneSafety 1 (1),None,None
+242556,63735953572373,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242564,63735953572396,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242597,63735953572419,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242597,63735953572440,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242664,63735953572462,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242664,63735953572484,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242672,63735953572507,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242714,63735953572530,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242731,63735953572553,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242747,63735953572575,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242772,63735953572600,PlaneSafety 1 (1),None,PlaneSafety 1 (1)
+242789,63735953572621,PlaneSafety 1 (1),None,PlaneSafety 1 (1)
+242822,63735953572643,PlaneSafety 1 (1),PlaneSafety 1 (1),None
+242847,63735953572665,PlaneSafety 1 (1),None,None
+242872,63735953572688,PlaneSafety 1 (1),None,None
+242897,63735953572710,PlaneSafety 1 (1),None,None
+242914,63735953572732,PlaneSafety 1 (1),None,None
+242931,63735953572754,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+242947,63735953572776,None,None,None
+242997,63735953572798,None,None,None
+243006,63735953572821,None,None,None
+243022,63735953572843,None,None,None
+243056,63735953572865,None,None,None
+243056,63735953572876,None,None,None
+243072,63735953572887,None,None,None
+243081,63735953572898,None,None,None
+243097,63735953572909,None,None,None
+243097,63735953572920,None,None,None
+243114,63735953572932,None,None,None
+243131,63735953572943,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+243131,63735953572954,B_Ebene Bodenplatte ,B_Ebene Bodenplatte ,B_Ebene Bodenplatte 
+243147,63735953572965,None,None,None
+243172,63735953572976,None,None,None
+243172,63735953572987,None,None,None
+243181,63735953572998,None,None,None
+243206,63735953573009,None,None,None
+243222,63735953573021,None,None,None
+243222,63735953573030,None,None,None
+243239,63735953573041,LM_WerbungGroß,None,LM_WerbungGroß
+243247,63735953573053,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+243247,63735953573063,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+243264,63735953573076,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+243281,63735953573085,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+243281,63735953573096,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+243297,63735953573108,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+243314,63735953573118,64|Mesh|C|Tunnel.003,LM_WerbungGroß,64|Mesh|C|Tunnel.003
+243314,63735953573130,64|Mesh|C|Tunnel.003,LM_WerbungGroß,64|Mesh|C|Tunnel.003
+243331,63735953573141,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+243347,63735953573153,None,LM_WerbungGroß,None
+243364,63735953573164,None,None,None
+243364,63735953573175,None,LM_WerbungGroß,None
+243381,63735953573186,None,None,None
+243397,63735953573198,None,None,None
+243397,63735953573211,None,None,None
+243406,63735953573223,None,None,None
+243439,63735953573246,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+243447,63735953573268,PlaneSafety 1 (1),64|Mesh|C|Tunnel.003,PlaneSafety 1 (1)
+243489,63735953573292,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+243506,63735953573317,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+243531,63735953573339,64|Mesh|C|Tunnel.003,None,64|Mesh|C|Tunnel.003
+243539,63735953573364,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+243589,63735953573400,PlaneSafety 1 (1),64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+243614,63735953573436,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+243672,63735953573480,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+243697,63735953573523,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+243747,63735953573566,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+243797,63735953573614,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+243847,63735953573657,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+243889,63735953573703,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+243914,63735953573748,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+243981,63735953573792,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244006,63735953573836,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244072,63735953573883,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244105,63735953573927,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244147,63735953573972,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244172,63735953574016,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244247,63735953574059,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244297,63735953574104,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244339,63735953574150,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244372,63735953574192,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244414,63735953574236,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244489,63735953574292,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244514,63735953574327,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244539,63735953574356,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244547,63735953574391,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244605,63735953574426,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+244639,63735953574458,None,64|Mesh|C|Tunnel.003,None
+244664,63735953574493,None,64|Mesh|C|Tunnel.003,None
+244697,63735953574525,None,64|Mesh|C|Tunnel.003,None
+244747,63735953574559,None,64|Mesh|C|Tunnel.003,None
+244780,63735953574594,None,64|Mesh|C|Tunnel.003,None
+244805,63735953574626,None,64|Mesh|C|Tunnel.003,None
+244822,63735953574661,None,None,None
+244847,63735953574693,None,None,None
+244905,63735953574727,None,64|Mesh|C|Tunnel.003,None
+244989,63735953574795,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+245014,63735953574826,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+245047,63735953574858,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+245072,63735953574893,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+245097,63735953574925,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+245147,63735953574958,None,None,None
+245172,63735953574991,273|Mesh|C|GleisabschnittA.001 (1),HighlightPlane,273|Mesh|C|GleisabschnittA.001 (1)
+245189,63735953575025,273|Mesh|C|GleisabschnittA.001 (1),PlaneSafety 1 (1),273|Mesh|C|GleisabschnittA.001 (1)
+245239,63735953575059,PlaneSafety 1 (1),None,PlaneSafety 1 (1)
+245272,63735953575095,None,None,None
+245305,63735953575125,PlaneSafety 1 (1),None,None
+245355,63735953575160,None,None,None
+245380,63735953575194,None,None,None
+245414,63735953575226,None,None,None
+245439,63735953575260,None,None,None
+245480,63735953575294,None,Orientation Highlighting Plane,None
+245514,63735953575328,None,None,None
+245530,63735953575359,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+245580,63735953575391,None,None,None
+245605,63735953575426,None,None,None
+245638,63735953575461,PlaneSafety 1 (1),15_Werbetafel 1 (34),15_Werbetafel 1 (34)
+245705,63735953575525,None,None,None
+245730,63735953575557,PlaneSafety 1 (1),64|Mesh|C|Tunnel.002,None
+245780,63735953575589,41_Liniennetzplan (1),111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+245813,63735953575623,PlaneSafety 1 (1),None,PlaneSafety 1 (1)
+245847,63735953575656,15_Werbetafel 1 (34),LM_Werbetafel_Display,LM_Werbetafel_Display
+245872,63735953575691,15_Werbetafel 1 (34),15_Werbetafel 1 (34),15_Werbetafel 1 (34)
+245905,63735953575724,15_Werbetafel 1 (34),Ende,15_Werbetafel 1 (34)
+245938,63735953575757,Ende,Ende,Ende
+245972,63735953575794,Ende,111|Mesh|C|BahnsteigdünneMetallschwellen.005,Ende
+245997,63735953575827,Ende,None,Ende
+246038,63735953575858,LM_Vitrineninhalt,None,None
+246088,63735953575889,None,41_Liniennetzplan,None
+246113,63735953575925,None,41_Liniennetzplan,None
+246138,63735953575959,41_Liniennetzplan,Cube (1),41_Liniennetzplan
+246172,63735953575992,Cube (1),Cube (1),Cube (1)
+246205,63735953576027,Cube (1),15_Werbetafel 1 (17),Cube (1)
+246222,63735953576058,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+246280,63735953576094,None,None,None
+246297,63735953576127,None,None,None
+246347,63735953576157,None,Orientation Highlighting Plane,None
+246388,63735953576191,LM_Werbetafel_Display,PlaneSafety 1 (1),None
+246413,63735953576222,None,64|Mesh|C|Tunnel.003,None
+246447,63735953576256,Cube (9),Cube (9),Cube (9)
+246463,63735953576290,Cube (9),Cube (9),Cube (9)
+246480,63735953576323,Cube (9),Cube (9),Cube (9)
+246538,63735953576357,Cube (9),Cube (9),Cube (9)
+246572,63735953576388,Cube (9),Cube (9),Cube (9)
+246605,63735953576423,Cube (9),Cube (9),Cube (9)
+246630,63735953576457,Cube (9),Cube (9),Cube (9)
+246688,63735953576494,Cube (9),Cube (9),Cube (9)
+246713,63735953576528,Cube (9),Cube (9),Cube (9)
+246747,63735953576557,Cube (9),Cube (9),Cube (9)
+246772,63735953576593,Cube (10),Cube (10),Cube (10)
+246805,63735953576624,Cube (10),Cube (10),Cube (10)
+246838,63735953576656,Cube (10),Cube (10),Cube (10)
+246872,63735953576691,Cube (10),Cube (10),Cube (10)
+246880,63735953576723,Cube (10),Cube (10),Cube (10)
+246947,63735953576756,None,1_Fahrstuhl (1),64|Mesh|C|Tunnel.003
+246963,63735953576787,None,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+247005,63735953576822,64|Mesh|C|Tunnel.003,1_Fahrstuhl (1),64|Mesh|C|Tunnel.003
+247030,63735953576855,None,None,None
+247072,63735953576889,O_Wayfinding_L,1_Fahrstuhl (1),O_Wayfinding_L
+247105,63735953576922,None,LM-Fahrstuhl-Scheiben,None
+247146,63735953576966,None,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben
+247205,63735953577010,None,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben
+247246,63735953577054,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,1_Fahrstuhl (1)
+247280,63735953577099,LM-Fahrstuhl-Scheiben,1_Fahrstuhl (1),LM-Fahrstuhl-Scheiben
+247330,63735953577143,None,None,None
+247371,63735953577186,None,None,None
+247413,63735953577235,None,None,None
+247471,63735953577276,None,None,None
+247513,63735953577323,None,None,None
+247538,63735953577363,None,None,None
+247596,63735953577409,None,None,None
+247646,63735953577455,None,None,None
+247680,63735953577499,None,None,None
+247713,63735953577543,None,None,None
+247780,63735953577587,None,None,None
+247838,63735953577631,None,None,None
+247880,63735953577674,None,None,None
+247896,63735953577704,None,None,None
+247946,63735953577743,None,None,None
+247996,63735953577786,None,None,None
+248021,63735953577830,None,None,None
+248080,63735953577877,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248105,63735953577909,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248138,63735953577943,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248171,63735953577975,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248213,63735953578009,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248238,63735953578040,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248271,63735953578078,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248296,63735953578109,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248330,63735953578140,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248363,63735953578177,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248388,63735953578209,39_Abzug (1),None,39_Abzug (1)
+248430,63735953578239,39_Abzug (1),None,None
+248455,63735953578273,39_Abzug (1),None,None
+248488,63735953578309,None,None,None
+248530,63735953578341,None,None,None
+248538,63735953578374,39_Abzug (1),None,None
+248596,63735953578407,39_Abzug (1),None,None
+248638,63735953578439,None,None,None
+248671,63735953578474,None,None,None
+248696,63735953578507,None,None,None
+248729,63735953578540,None,None,None
+248746,63735953578574,None,None,None
+248796,63735953578606,None,None,None
+248829,63735953578639,None,None,None
+248838,63735953578661,None,None,None
+248871,63735953578682,None,None,None
+248871,63735953578707,None,None,None
+248938,63735953578750,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+248963,63735953578775,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+249004,63735953578816,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+249046,63735953578861,39_Abzug (1),5_Bank (73),39_Abzug (1)
+249071,63735953578886,5_Bank (73),5_Bank (73),5_Bank (73)
+249113,63735953578927,5_Bank (73),5_Bank (73),5_Bank (73)
+249121,63735953578949,5_Bank (73),5_Bank (73),5_Bank (73)
+249146,63735953578971,5_Bank (73),5_Bank (75),5_Bank (73)
+249171,63735953578994,5_Bank (75),5_Bank (75),5_Bank (73)
+249204,63735953579016,5_Bank (73),5_Bank (75),5_Bank (73)
+249204,63735953579038,5_Bank (73),5_Bank (75),5_Bank (73)
+249271,63735953579083,5_Bank (73),5_Bank (75),5_Bank (73)
+249288,63735953579104,39_Abzug (1),5_Bank (72),39_Abzug (1)
+249313,63735953579125,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+249329,63735953579148,None,None,None
+249346,63735953579170,None,None,None
+249371,63735953579194,None,None,None
+249421,63735953579235,None,None,None
+249446,63735953579259,None,None,None
+249463,63735953579279,None,None,None
+249496,63735953579303,None,None,None
+249513,63735953579324,None,None,None
+249521,63735953579344,None,None,None
+249554,63735953579368,None,None,None
+249579,63735953579388,None,None,None
+249596,63735953579409,None,None,None
+249629,63735953579434,None,None,None
+249638,63735953579455,None,None,None
+249671,63735953579478,None,None,None
+249679,63735953579498,None,None,None
+249696,63735953579520,None,None,None
+249738,63735953579542,None,None,None
+249746,63735953579564,None,None,None
+249771,63735953579586,None,None,None
+249796,63735953579608,None,None,None
+249804,63735953579629,None,None,None
+249846,63735953579652,None,None,None
+249863,63735953579673,None,None,None
+249879,63735953579696,None,None,None
+249904,63735953579718,None,None,None
+249921,63735953579738,None,None,None
+249938,63735953579759,None,None,None
+249963,63735953579782,None,None,None
+249979,63735953579803,None,None,None
+249996,63735953579825,None,None,None
+250038,63735953579847,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250054,63735953579868,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250088,63735953579890,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250088,63735953579912,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250104,63735953579936,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250146,63735953579957,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250171,63735953579980,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250204,63735953580001,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250204,63735953580012,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250212,63735953580024,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250221,63735953580033,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250221,63735953580044,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250246,63735953580055,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250262,63735953580066,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250262,63735953580077,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250279,63735953580089,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250296,63735953580100,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250296,63735953580111,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250304,63735953580123,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250321,63735953580133,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250321,63735953580144,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250346,63735953580156,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250354,63735953580166,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250371,63735953580177,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250371,63735953580188,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250396,63735953580199,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250404,63735953580211,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250404,63735953580221,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250421,63735953580233,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250429,63735953580244,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250454,63735953580255,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250454,63735953580267,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250471,63735953580278,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250479,63735953580290,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+250504,63735953580302,64|Mesh|C|Tunnel.003,None,64|Mesh|C|Tunnel.003
+250504,63735953580314,None,None,None
+250512,63735953580325,None,None,None
+250529,63735953580339,None,None,None
+250546,63735953580349,None,None,None
+250546,63735953580360,None,None,None
+250562,63735953580373,None,None,None
+250571,63735953580385,None,None,None
+250596,63735953580397,None,None,None
+250596,63735953580411,None,None,None
+250637,63735953580428,None,None,None
+250637,63735953580442,None,None,None
+250671,63735953580463,None,None,None
+250671,63735953580475,None,None,None
+250696,63735953580496,None,None,None
+250704,63735953580510,None,None,None
+250712,63735953580532,None,None,None
+250721,63735953580554,None,None,None
+250771,63735953580577,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+250779,63735953580600,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+250812,63735953580624,None,39_Abzug (1),None
+250829,63735953580645,None,39_Abzug (1),None
+250862,63735953580668,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+250879,63735953580690,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+250904,63735953580713,LM_WerbungGroß,None,LM_WerbungGroß
+250929,63735953580733,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+250937,63735953580759,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+250971,63735953580779,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+250971,63735953580802,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+250996,63735953580824,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+251037,63735953580847,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+251054,63735953580868,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+251087,63735953580892,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+251096,63735953580915,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+251129,63735953580937,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+251146,63735953580958,None,None,None
+251171,63735953580983,Cube (9),Cube (9),Cube (9)
+251187,63735953581003,1_Fahrstuhl (1),1_Fahrstuhl (1),1_Fahrstuhl (1)
+251212,63735953581026,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,1_Fahrstuhl (1)
+251221,63735953581047,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,1_Fahrstuhl (1)
+251246,63735953581070,1_Fahrstuhl (1),1_Fahrstuhl (1),1_Fahrstuhl (1)
+251271,63735953581093,1_Fahrstuhl (1),1_Fahrstuhl (1),1_Fahrstuhl (1)
+251304,63735953581116,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben
+251312,63735953581137,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben
+251354,63735953581160,1_Fahrstuhl (1),LM-Fahrstuhl-Scheiben,1_Fahrstuhl (1)
+251379,63735953581183,1_Fahrstuhl (1),LM-Fahrstuhl-Scheiben,1_Fahrstuhl (1)
+251396,63735953581227,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben
+251454,63735953581271,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,1_Fahrstuhl (1)
+251479,63735953581293,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben
+251496,63735953581317,1_Fahrstuhl (1),1_Fahrstuhl (1),1_Fahrstuhl (1)
+251537,63735953581360,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,1_Fahrstuhl (1)
+251579,63735953581383,Cube (9),Cube (9),Cube (9)
+251604,63735953581427,Cube (9),None,Cube (9)
+251637,63735953581449,None,None,None
+251679,63735953581491,Cube (9),Cube (9),Cube (9)
+251704,63735953581516,Cube (9),None,Cube (9)
+251762,63735953581560,None,O_Wayfinding_L,None
+251795,63735953581607,None,O_Wayfinding_L,None
+251820,63735953581649,None,O_Wayfinding_L,O_Wayfinding_L
+251879,63735953581693,None,O_Wayfinding_L,None
+251929,63735953581738,None,None,None
+251979,63735953581782,Cube (9),None,Cube (9)
+252020,63735953581836,Cube (9),None,Cube (9)
+252045,63735953581874,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben
+252104,63735953581919,1_Fahrstuhl (1),Cube (9),Cube (9)
+252145,63735953581960,1_Fahrstuhl (1),Cube (9),1_Fahrstuhl (1)
+252170,63735953581983,Cube (9),1_Fahrstuhl (1),1_Fahrstuhl (1)
+252212,63735953582028,1_Fahrstuhl (1),Cube (9),1_Fahrstuhl (1)
+252262,63735953582069,1_Fahrstuhl (1),1_Fahrstuhl (1),1_Fahrstuhl (1)
+252312,63735953582115,1_Fahrstuhl (1),1_Fahrstuhl (1),1_Fahrstuhl (1)
+252320,63735953582137,1_Fahrstuhl (1),1_Fahrstuhl (1),1_Fahrstuhl (1)
+252345,63735953582162,1_Fahrstuhl (1),LM-Fahrstuhl-Scheiben,1_Fahrstuhl (1)
+252387,63735953582204,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben,LM-Fahrstuhl-Scheiben
+252420,63735953582229,23_Feuerlöscher (2),LM_Vitrine,LM_Vitrine
+252454,63735953582271,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+252495,63735953582315,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+252545,63735953582361,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+252595,63735953582403,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrine
+252645,63735953582449,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrineninhalt
+252679,63735953582495,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrineninhalt
+252712,63735953582539,LM_Vitrineninhalt,LM_Vitrine,LM_Vitrineninhalt
+252754,63735953582582,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+252787,63735953582626,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrineninhalt
+252854,63735953582669,LM_Vitrineninhalt,LM_Vitrine,LM_Vitrineninhalt
+252879,63735953582692,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+252904,63735953582716,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+252945,63735953582759,LM_Vitrineninhalt,LM_Vitrine,15_Werbetafel 1 (16)
+252979,63735953582783,None,None,None
+253004,63735953582827,None,LM_Vitrine,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+253045,63735953582871,LM_Vitrine,LM_Vitrine,LM_Vitrine
+253104,63735953582917,111|Mesh|C|BahnsteigdünneMetallschwellen.005,LM_Vitrine,None
+253154,63735953582961,111|Mesh|C|BahnsteigdünneMetallschwellen.005,LM_Vitrine,LM_Vitrine
+253170,63735953582984,None,None,None
+253212,63735953583028,111|Mesh|C|BahnsteigdünneMetallschwellen.005,LM_Vitrine,LM_Vitrine
+253237,63735953583071,111|Mesh|C|BahnsteigdünneMetallschwellen.005,LM_Vitrine,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+253295,63735953583114,64|Mesh|C|Tunnel.002,LM_Vitrine,64|Mesh|C|Tunnel.002
+253328,63735953583138,LM_Vitrine,LM_Vitrine,LM_Vitrine
+253370,63735953583185,None,LM_Vitrineninhalt,64|Mesh|C|Tunnel.002
+253412,63735953583227,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+253453,63735953583272,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+253512,63735953583317,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+253545,63735953583362,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+253578,63735953583404,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+253645,63735953583451,Cube (2),Cube (2),Cube (2)
+253670,63735953583494,Cube (2),Cube (2),Cube (2)
+253712,63735953583540,None,Cube (2),None
+253762,63735953583584,None,Orientation Highlighting Plane,None
+253820,63735953583629,None,Orientation Highlighting Plane,None
+253862,63735953583672,None,Orientation Highlighting Plane,None
+253903,63735953583717,1_Fahrstuhl (2),1_Fahrstuhl (2),1_Fahrstuhl (2)
+253937,63735953583759,LM-Fahrstuhl-Scheiben,None,LM-Fahrstuhl-Scheiben
+253978,63735953583804,1_Fahrstuhl (2),1_Fahrstuhl (2),1_Fahrstuhl (2)
+254037,63735953583852,None,None,None
+254070,63735953583897,None,None,None
+254120,63735953583939,None,None,None
+254162,63735953583981,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+254212,63735953584024,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+254228,63735953584046,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+254237,63735953584068,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+254270,63735953584089,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+254295,63735953584112,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+254337,63735953584135,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+254345,63735953584155,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+254362,63735953584177,39_Abzug (1),39_Abzug (1),39_Abzug (1)
+254387,63735953584201,None,None,None
+254403,63735953584221,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+254420,63735953584244,None,None,None
+254445,63735953584268,Station Name,None,Station Name
+254470,63735953584287,None,Orientation Highlighting Plane,None
+254495,63735953584311,Orientation Highlighting Plane,None,None
+254512,63735953584332,None,None,None
+254528,63735953584355,None,None,None
+254570,63735953584380,None,None,None
+254578,63735953584403,None,None,None
+254612,63735953584426,None,None,None
+254653,63735953584471,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+254712,63735953584520,64|Mesh|C|Tunnel.003,None,None
+254737,63735953584559,LM_Vitrine,64|Mesh|C|Tunnel.003,PlaneSafety 1 (1)
+254778,63735953584604,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+254845,63735953584647,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+254878,63735953584692,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+254886,63735953584716,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+254936,63735953584760,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+255003,63735953584806,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+255045,63735953584849,5_Bank (69),5_Bank (69),5_Bank (69)
+255070,63735953584892,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+255111,63735953584938,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+255170,63735953584982,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+255203,63735953585025,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003,64|Mesh|C|Tunnel.003
+255261,63735953585071,LM_Vitrine,111|Mesh|C|BahnsteigdünneMetallschwellen.005,LM_Vitrine
+255286,63735953585113,LM_Vitrine,LM_Vitrine,LM_Vitrine
+255345,63735953585158,111|Mesh|C|BahnsteigdünneMetallschwellen.005,LM_Vitrine,64|Mesh|C|Tunnel.003
+255386,63735953585204,23_Feuerlöscher (2),23_Feuerlöscher (2),23_Feuerlöscher (2)
+255445,63735953585248,23_Feuerlöscher (2),111|Mesh|C|BahnsteigdünneMetallschwellen.005,23_Feuerlöscher (2)
+255470,63735953585292,None,23_Feuerlöscher (2),111|Mesh|C|BahnsteigdünneMetallschwellen.005
+255503,63735953585317,None,23_Feuerlöscher (2),111|Mesh|C|BahnsteigdünneMetallschwellen.005
+255553,63735953585358,64|Mesh|C|Tunnel.003,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+255570,63735953585380,None,None,None
+255611,63735953585429,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+255670,63735953585469,64|Mesh|C|Tunnel.003,23_Feuerlöscher (2),111|Mesh|C|BahnsteigdünneMetallschwellen.005
+255678,63735953585493,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+255711,63735953585517,HighlightPlane,None,None
+255736,63735953585562,HighlightPlane,None,HighlightPlane
+255770,63735953585603,6_DigitaleS-BahnAnzeige (10),None,HighlightPlane
+255836,63735953585646,None,None,HighlightPlane
+255845,63735953585671,HighlightPlane,None,HighlightPlane
+255886,63735953585712,6_DigitaleS-BahnAnzeige (10),6_DigitaleS-BahnAnzeige (10),6_DigitaleS-BahnAnzeige (10)
+255928,63735953585737,HighlightPlane,None,HighlightPlane
+255970,63735953585782,6_DigitaleS-BahnAnzeige (10),None,None
+255978,63735953585805,HighlightPlane,HighlightPlane,None
+256045,63735953585848,LM_Werbetafel_Display,None,15_Werbetafel 1 (1)
+256078,63735953585894,15_Werbetafel 1 (1),None,15_Werbetafel 1 (1)
+256120,63735953585935,15_Werbetafel 1 (1),15_Werbetafel 1 (1),15_Werbetafel 1 (1)
+256136,63735953585958,15_Werbetafel 1 (1),15_Werbetafel 1 (1),15_Werbetafel 1 (1)
+256170,63735953585982,None,64|Mesh|C|Tunnel.002,None
+256211,63735953586024,LM_Werbetafel_Display,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+256220,63735953586046,15_Werbetafel 1 (13),111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+256236,63735953586067,15_Werbetafel 1 (13),111|Mesh|C|BahnsteigdünneMetallschwellen.005,64|Mesh|C|Tunnel.002
+256270,63735953586089,15_Werbetafel 1 (13),LM_Werbetafel_Display,LM_Werbetafel_Display
+256286,63735953586112,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256336,63735953586134,15_Werbetafel 1 (13),LM_Werbetafel_Display,LM_Werbetafel_Display
+256336,63735953586156,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256344,63735953586178,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256378,63735953586203,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256444,63735953586246,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256478,63735953586289,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256486,63735953586311,15_Werbetafel 1 (13),LM_Werbetafel_Display,LM_Werbetafel_Display
+256519,63735953586333,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256544,63735953586357,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256603,63735953586403,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256619,63735953586448,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256678,63735953586490,15_Werbetafel 1 (13),None,15_Werbetafel 1 (13)
+256686,63735953586514,15_Werbetafel 1 (13),None,15_Werbetafel 1 (13)
+256711,63735953586534,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256769,63735953586578,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256778,63735953586600,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256786,63735953586622,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256819,63735953586643,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256853,63735953586667,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256878,63735953586688,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256894,63735953586709,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+256911,63735953586733,None,None,None
+256936,63735953586753,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None,None
+256953,63735953586777,LM_Werbetafel_Display,15_Werbetafel 1 (2),LM_Werbetafel_Display
+256986,63735953586799,Cube (7),Cube (7),Cube (7)
+257011,63735953586822,LM_WerbungGroß,PlaneSafety 1 (1),LM_WerbungGroß
+257028,63735953586842,15_Werbetafel 1 (27),LM_Werbetafel_Display,LM_Werbetafel_Display
+257053,63735953586866,LM_WerbungGroß,LM_Werbetafel_Display,15_Werbetafel 1 (28)
+257069,63735953586887,LM_WerbungGroß,15_Werbetafel 1 (28),15_Werbetafel 1 (28)
+257086,63735953586909,LM_WerbungGroß,15_Werbetafel 1 (28),LM_WerbungGroß
+257111,63735953586931,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+257136,63735953586954,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+257169,63735953586976,15_Werbetafel 1 (28),15_Werbetafel 1 (28),15_Werbetafel 1 (28)
+257178,63735953586997,15_Werbetafel 1 (28),15_Werbetafel 1 (28),15_Werbetafel 1 (28)
+257211,63735953587020,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+257236,63735953587041,LM_Werbetafel_Display,15_Werbetafel 1 (26),LM_Werbetafel_Display
+257253,63735953587063,None,LM_WerbungGroß,LM_WerbungGroß
+257278,63735953587088,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257294,63735953587108,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257311,63735953587130,PlaneSafety 1 (1),Cube (8),Cube (8)
+257336,63735953587155,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257344,63735953587176,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257386,63735953587199,PlaneSafety 1 (1),PlaneSafety 1 (1),Cube (8)
+257411,63735953587221,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257419,63735953587242,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257453,63735953587265,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257469,63735953587287,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257503,63735953587310,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257519,63735953587332,Cube (8),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257553,63735953587354,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257569,63735953587376,Cube (8),Cube (8),Cube (8)
+257586,63735953587398,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257611,63735953587420,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257636,63735953587444,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257644,63735953587465,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257669,63735953587488,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257694,63735953587511,Cube (8),PlaneSafety 1 (1),Cube (8)
+257719,63735953587532,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257736,63735953587554,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257753,63735953587574,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+257778,63735953587598,PlaneSafety 1 (1),Cube (8),PlaneSafety 1 (1)
+257803,63735953587619,Cube (8),Cube (8),Cube (8)
+257819,63735953587642,PlaneSafety 1 (1),Cube (8),Cube (8)
+257844,63735953587664,None,None,None
+257877,63735953587686,None,None,None
+257902,63735953587709,None,None,None
+257911,63735953587731,None,None,None
+257944,63735953587753,None,None,None
+257961,63735953587777,None,None,None
+257986,63735953587799,None,None,None
+258002,63735953587822,None,None,None
+258019,63735953587844,None,None,None
+258044,63735953587865,None,None,None
+258077,63735953587887,None,None,None
+258102,63735953587909,None,None,None
+258111,63735953587932,None,None,None
+258136,63735953587954,None,None,None
+258169,63735953587975,Cube (1),Cube (1),Cube (1)
+258177,63735953587999,Cube (1),Cube (1),Cube (1)
+258211,63735953588022,Cube (1),Cube (1),Cube (1)
+258219,63735953588042,Cube (1),Cube (1),Cube (1)
+258236,63735953588065,Cube (1),Cube (1),Cube (1)
+258277,63735953588088,LM_WerbungGroß,Cube (1),LM_WerbungGroß
+258286,63735953588112,Cube (1),LM_WerbungGroß,Cube (1)
+258319,63735953588134,LM_WerbungGroß,LM_WerbungGroß,LM_WerbungGroß
+258336,63735953588154,15_Werbetafel 1 (30),None,15_Werbetafel 1 (30)
+258369,63735953588177,None,None,None
+258377,63735953588200,15_Werbetafel 1 (30),LM_Werbetafel_Display,15_Werbetafel 1 (30)
+258402,63735953588222,LM_Werbetafel_Display,None,LM_Werbetafel_Display
+258427,63735953588243,15_Werbetafel 1 (29),None,None
+258452,63735953588265,None,None,None
+258469,63735953588289,None,None,None
+258486,63735953588310,None,None,None
+258511,63735953588333,None,None,None
+258544,63735953588356,None,None,None
+258552,63735953588377,None,None,None
+258577,63735953588397,None,LM_Vitrineninhalt,LM_Vitrine
+258602,63735953588421,None,None,None
+258619,63735953588444,None,None,None
+258644,63735953588466,None,None,None
+258661,63735953588486,None,None,None
+258677,63735953588509,None,None,None
+258711,63735953588531,None,None,None
+258744,63735953588552,6_DigitaleS-BahnAnzeige (5),6_DigitaleS-BahnAnzeige (5),6_DigitaleS-BahnAnzeige (5)
+258752,63735953588575,6_DigitaleS-BahnAnzeige (5),None,6_DigitaleS-BahnAnzeige (5)
+258777,63735953588598,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrineninhalt
+258786,63735953588619,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrineninhalt
+258819,63735953588642,None,LM_Vitrine,LM_Vitrine
+258844,63735953588663,None,LM_Vitrine,LM_Vitrine
+258869,63735953588690,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrineninhalt
+258886,63735953588712,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrineninhalt
+258936,63735953588753,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+258936,63735953588775,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+258969,63735953588795,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrineninhalt
+259011,63735953588820,None,LM_Vitrineninhalt,LM_Vitrine
+259019,63735953588843,None,273|Mesh|C|GleisabschnittA.001 (1),LM_Vitrine
+259052,63735953588865,None,273|Mesh|C|GleisabschnittA.001 (1),LM_Vitrine
+259069,63735953588886,None,LM_Vitrineninhalt,LM_Vitrine
+259102,63735953588910,None,LM_Vitrineninhalt,LM_Vitrine
+259111,63735953588931,None,LM_Vitrineninhalt,LM_Vitrine
+259127,63735953588951,None,LM_Vitrineninhalt,LM_Vitrine
+259152,63735953588975,None,LM_Vitrineninhalt,LM_Vitrine
+259177,63735953588998,None,LM_Vitrineninhalt,LM_Vitrine
+259202,63735953589020,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrine
+259219,63735953589043,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+259244,63735953589064,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+259261,63735953589087,Cube,LM_Vitrineninhalt,LM_Vitrine
+259286,63735953589109,Cube,Cube,Cube
+259319,63735953589131,None,LM_Vitrine,LM_Vitrine
+259336,63735953589153,Cube,Cube,Cube
+259352,63735953589175,Cube,Cube,Cube
+259377,63735953589198,Cube,Cube,Cube
+259402,63735953589221,None,Cube,Cube
+259419,63735953589244,Cube,15_Werbetafel 1,Cube
+259452,63735953589267,Cube,Cube,Cube
+259477,63735953589287,Cube,Cube,Cube
+259485,63735953589308,Cube,Cube,Cube
+259510,63735953589332,Cube,Cube,Cube
+259535,63735953589353,Cube,Cube,Cube
+259552,63735953589375,Cube,Cube,Cube
+259602,63735953589399,38_Telefonsaeule 1 (3),38_Telefonsaeule 1 (3),38_Telefonsaeule 1 (3)
+259610,63735953589418,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+259619,63735953589441,LM_Vitrineninhalt,15_Werbetafel 1 (1),LM_Werbetafel_Display
+259644,63735953589465,15_Werbetafel 1 (13),LM_Werbetafel_Display,LM_Werbetafel_Display
+259669,63735953589486,None,LM_Werbetafel_Display,None
+259677,63735953589508,None,15_Werbetafel 1 (13),None
+259719,63735953589531,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+259735,63735953589553,15_Werbetafel 1 (13),15_Werbetafel 1 (13),15_Werbetafel 1 (13)
+259769,63735953589574,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+259777,63735953589597,15_Werbetafel 1 (13),15_Werbetafel 1 (13),15_Werbetafel 1 (13)
+259802,63735953589619,None,None,None
+259835,63735953589642,None,None,None
+259844,63735953589664,None,None,None
+259869,63735953589685,None,None,None
+259902,63735953589709,None,None,None
+259910,63735953589731,None,None,None
+259944,63735953589752,None,None,None
+259952,63735953589774,None,None,None
+260002,63735953589797,None,None,None
+260010,63735953589821,None,None,None
+260019,63735953589841,None,None,None
+260052,63735953589864,None,None,None
+260077,63735953589885,None,None,None
+260085,63735953589907,None,None,None
+260119,63735953589930,None,None,None
+260135,63735953589952,None,None,None
+260169,63735953589974,None,None,None
+260185,63735953589996,None,None,None
+260202,63735953590019,None,None,None
+260235,63735953590041,None,None,None
+260244,63735953590063,None,None,None
+260260,63735953590084,None,None,None
+260285,63735953590106,None,None,None
+260310,63735953590128,PlaneSafety 1 (1),None,None
+260335,63735953590150,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+260360,63735953590174,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+260377,63735953590195,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+260410,63735953590216,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+260419,63735953590239,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+260444,63735953590261,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+260477,63735953590284,PlaneSafety 1 (1),None,PlaneSafety 1 (1)
+260485,63735953590306,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+260519,63735953590328,PlaneSafety 1 (1),None,PlaneSafety 1 (1)
+260527,63735953590350,PlaneSafety 1 (1),None,PlaneSafety 1 (1)
+260577,63735953590373,PlaneSafety 1 (1),None,None
+260577,63735953590394,PlaneSafety 1 (1),None,None
+260585,63735953590417,PlaneSafety 1 (1),None,None
+260627,63735953590440,None,None,None
+260644,63735953590461,None,None,None
+260677,63735953590487,LM_Vitrineninhalt,None,None
+260685,63735953590508,LM_Vitrine,None,LM_Vitrine
+260702,63735953590528,LM_Vitrine,None,LM_Vitrine
+260744,63735953590552,LM_Vitrineninhalt,None,LM_Vitrine
+260752,63735953590572,LM_Vitrine,None,None
+260769,63735953590594,LM_Vitrineninhalt,PlaneSafety 1 (1),None
+260794,63735953590619,None,PlaneSafety 1 (1),None
+260819,63735953590640,LM_Vitrineninhalt,None,None
+260852,63735953590662,None,None,None
+260869,63735953590683,None,None,None
+260877,63735953590706,LM_Vitrine,None,None
+260910,63735953590728,None,None,None
+260935,63735953590750,6_DigitaleS-BahnAnzeige (10),HighlightPlane,HighlightPlane
+260968,63735953590772,6_DigitaleS-BahnAnzeige (10),HighlightPlane,HighlightPlane
+260985,63735953590793,None,6_DigitaleS-BahnAnzeige (10),6_DigitaleS-BahnAnzeige (10)
+260993,63735953590816,None,HighlightPlane,6_DigitaleS-BahnAnzeige (10)
+261018,63735953590842,None,HighlightPlane,HighlightPlane
+261043,63735953590861,None,HighlightPlane,6_DigitaleS-BahnAnzeige (10)
+261077,63735953590887,None,HighlightPlane,6_DigitaleS-BahnAnzeige (10)
+261085,63735953590908,6_DigitaleS-BahnAnzeige (10),HighlightPlane,6_DigitaleS-BahnAnzeige (10)
+261110,63735953590930,6_DigitaleS-BahnAnzeige (10),HighlightPlane,HighlightPlane
+261135,63735953590952,HighlightPlane,HighlightPlane,HighlightPlane
+261152,63735953590972,None,None,None
+261177,63735953590995,HighlightPlane,HighlightPlane,HighlightPlane
+261193,63735953591018,HighlightPlane,HighlightPlane,HighlightPlane
+261210,63735953591041,None,6_DigitaleS-BahnAnzeige (10),6_DigitaleS-BahnAnzeige (10)
+261252,63735953591063,None,6_DigitaleS-BahnAnzeige (10),None
+261260,63735953591083,None,None,None
+261293,63735953591105,None,None,None
+261310,63735953591127,None,None,None
+261327,63735953591150,None,None,None
+261360,63735953591171,None,None,None
+261377,63735953591194,None,None,None
+261410,63735953591216,None,None,None
+261418,63735953591242,None,None,None
+261443,63735953591261,None,6_DigitaleS-BahnAnzeige (10),None
+261460,63735953591284,None,None,None
+261485,63735953591309,None,None,None
+261518,63735953591327,None,None,None
+261535,63735953591348,None,None,None
+261560,63735953591374,None,None,None
+261577,63735953591394,None,None,None
+261593,63735953591416,None,None,None
+261627,63735953591439,None,41_Liniennetzplan (1),None
+261652,63735953591462,None,273|Mesh|C|GleisabschnittA.001 (1),None
+261668,63735953591484,None,273|Mesh|C|GleisabschnittA.001 (1),41_Liniennetzplan (1)
+261693,63735953591505,41_Liniennetzplan (1),273|Mesh|C|GleisabschnittA.001 (1),None
+261710,63735953591528,None,273|Mesh|C|GleisabschnittA.001 (1),None
+261735,63735953591550,None,273|Mesh|C|GleisabschnittA.001 (1),None
+261735,63735953591572,None,273|Mesh|C|GleisabschnittA.001 (1),None
+261777,63735953591596,None,PlaneSafety 1 (1),None
+261793,63735953591618,273|Mesh|C|GleisabschnittA.001 (1),PlaneSafety 1 (1),273|Mesh|C|GleisabschnittA.001 (1)
+261818,63735953591641,273|Mesh|C|GleisabschnittA.001 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+261852,63735953591661,273|Mesh|C|GleisabschnittA.001 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+261860,63735953591683,None,PlaneSafety 1 (1),PlaneSafety 1 (1)
+261885,63735953591706,273|Mesh|C|GleisabschnittA.001 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+261885,63735953591727,273|Mesh|C|GleisabschnittA.001 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+261918,63735953591751,None,PlaneSafety 1 (1),PlaneSafety 1 (1)
+261968,63735953591773,None,PlaneSafety 1 (1),None
+261977,63735953591796,None,None,None
+262002,63735953591817,273|Mesh|C|GleisabschnittA.001 (1),None,273|Mesh|C|GleisabschnittA.001 (1)
+262018,63735953591839,None,None,None
+262035,63735953591862,273|Mesh|C|GleisabschnittA.001 (1),None,None
+262077,63735953591883,273|Mesh|C|GleisabschnittA.001 (1),None,273|Mesh|C|GleisabschnittA.001 (1)
+262077,63735953591906,273|Mesh|C|GleisabschnittA.001 (1),None,None
+262093,63735953591929,273|Mesh|C|GleisabschnittA.001 (1),None,None
+262127,63735953591950,None,PlaneSafety 1 (1),None
+262143,63735953591974,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+262185,63735953591997,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262202,63735953592018,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262218,63735953592040,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262243,63735953592062,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262268,63735953592084,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262285,63735953592106,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262310,63735953592130,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262327,63735953592149,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262352,63735953592172,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262377,63735953592196,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262410,63735953592218,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262418,63735953592240,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262460,63735953592264,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262477,63735953592283,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262485,63735953592305,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262510,63735953592327,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262535,63735953592349,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262551,63735953592371,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262576,63735953592393,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262601,63735953592416,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262618,63735953592438,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262643,63735953592460,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262651,63735953592482,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262693,63735953592504,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262710,63735953592530,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262726,63735953592549,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+262751,63735953592571,64|Mesh|C|Tunnel.002,LM_Vitrine,LM_Vitrine
+262776,63735953592592,LM_Vitrine,LM_Vitrine,LM_Vitrine
+262801,63735953592615,64|Mesh|C|Tunnel.002,LM_Vitrineninhalt,64|Mesh|C|Tunnel.002
+262826,63735953592637,64|Mesh|C|Tunnel.002,None,LM_Vitrine
+262843,63735953592660,64|Mesh|C|Tunnel.002,None,64|Mesh|C|Tunnel.002
+262860,63735953592683,None,None,LM_Vitrine
+262885,63735953592704,LM_Vitrine,None,LM_Vitrine
+262910,63735953592726,None,64|Mesh|C|Tunnel.002,64|Mesh|C|Tunnel.002
+262935,63735953592748,LM_Vitrine,None,None
+262951,63735953592771,LM_Vitrine,None,None
+262976,63735953592793,LM_Vitrine,None,None
+262993,63735953592816,None,LM_Vitrineninhalt,LM_Vitrineninhalt
+263018,63735953592837,LM_Vitrine,LM_Vitrineninhalt,LM_Vitrine
+263043,63735953592858,LM_Vitrineninhalt,LM_Vitrine,LM_Vitrineninhalt
+263051,63735953592881,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrine
+263085,63735953592903,LM_Vitrineninhalt,LM_Vitrineninhalt,LM_Vitrineninhalt
+263110,63735953592926,None,None,None
+263135,63735953592948,None,None,None
+263135,63735953592969,None,6_DigitaleS-BahnAnzeige (10),None
+263168,63735953592992,None,None,None
+263193,63735953593015,None,None,None
+263210,63735953593038,None,None,None
+263251,63735953593060,None,None,None
+263268,63735953593081,273|Mesh|C|GleisabschnittA.001 (1),None,None
+263276,63735953593104,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+263310,63735953593127,273|Mesh|C|GleisabschnittA.001 (1),None,273|Mesh|C|GleisabschnittA.001 (1)
+263335,63735953593148,273|Mesh|C|GleisabschnittA.001 (1),None,273|Mesh|C|GleisabschnittA.001 (1)
+263368,63735953593171,6_DigitaleS-BahnAnzeige (10),6_DigitaleS-BahnAnzeige (10),6_DigitaleS-BahnAnzeige (10)
+263376,63735953593193,HighlightPlane,HighlightPlane,HighlightPlane
+263393,63735953593215,HighlightPlane,HighlightPlane,HighlightPlane
+263418,63735953593236,HighlightPlane,HighlightPlane,HighlightPlane
+263443,63735953593260,HighlightPlane,HighlightPlane,HighlightPlane
+263468,63735953593281,HighlightPlane,HighlightPlane,HighlightPlane
+263493,63735953593303,HighlightPlane,HighlightPlane,HighlightPlane
+263510,63735953593326,HighlightPlane,HighlightPlane,HighlightPlane
+263543,63735953593348,HighlightPlane,HighlightPlane,HighlightPlane
+263551,63735953593371,HighlightPlane,HighlightPlane,HighlightPlane
+263576,63735953593392,HighlightPlane,HighlightPlane,HighlightPlane
+263576,63735953593414,HighlightPlane,HighlightPlane,HighlightPlane
+263610,63735953593438,HighlightPlane,HighlightPlane,HighlightPlane
+263643,63735953593459,HighlightPlane,HighlightPlane,HighlightPlane
+263660,63735953593481,HighlightPlane,HighlightPlane,HighlightPlane
+263676,63735953593502,HighlightPlane,HighlightPlane,HighlightPlane
+263718,63735953593526,HighlightPlane,HighlightPlane,HighlightPlane
+263735,63735953593548,6_DigitaleS-BahnAnzeige (10),HighlightPlane,HighlightPlane
+263751,63735953593570,6_DigitaleS-BahnAnzeige (10),HighlightPlane,HighlightPlane
+263776,63735953593591,6_DigitaleS-BahnAnzeige (10),6_DigitaleS-BahnAnzeige (10),6_DigitaleS-BahnAnzeige (10)
+263785,63735953593614,6_DigitaleS-BahnAnzeige (10),HighlightPlane,6_DigitaleS-BahnAnzeige (10)
+263818,63735953593635,None,None,None
+263835,63735953593660,None,None,None
+263860,63735953593680,None,None,None
+263860,63735953593702,None,None,None
+263893,63735953593725,None,None,None
+263910,63735953593746,None,None,None
+263943,63735953593769,None,None,None
+263985,63735953593791,None,None,None
+263985,63735953593813,None,None,None
+264010,63735953593835,None,None,None
+264051,63735953593858,None,None,None
+264059,63735953593879,None,None,None
+264093,63735953593904,None,None,None
+264118,63735953593924,None,None,None
+264126,63735953593948,HighlightPlane,HighlightPlane,HighlightPlane
+264151,63735953593968,HighlightPlane,HighlightPlane,HighlightPlane
+264168,63735953593990,HighlightPlane,HighlightPlane,HighlightPlane
+264184,63735953594012,HighlightPlane,HighlightPlane,HighlightPlane
+264209,63735953594035,HighlightPlane,HighlightPlane,HighlightPlane
+264218,63735953594058,HighlightPlane,HighlightPlane,HighlightPlane
+264268,63735953594080,HighlightPlane,HighlightPlane,HighlightPlane
+264284,63735953594102,HighlightPlane,HighlightPlane,HighlightPlane
+264301,63735953594124,HighlightPlane,HighlightPlane,HighlightPlane
+264326,63735953594145,HighlightPlane,HighlightPlane,HighlightPlane
+264343,63735953594161,HighlightPlane,6_DigitaleS-BahnAnzeige (10),HighlightPlane
+264368,63735953594180,HighlightPlane,HighlightPlane,HighlightPlane
+264384,63735953594202,HighlightPlane,6_DigitaleS-BahnAnzeige (10),HighlightPlane
+264418,63735953594224,HighlightPlane,HighlightPlane,HighlightPlane
+264426,63735953594246,HighlightPlane,HighlightPlane,HighlightPlane
+264443,63735953594268,HighlightPlane,HighlightPlane,HighlightPlane
+264476,63735953594290,HighlightPlane,HighlightPlane,HighlightPlane
+264484,63735953594312,HighlightPlane,HighlightPlane,HighlightPlane
+264526,63735953594334,HighlightPlane,HighlightPlane,HighlightPlane
+264543,63735953594357,HighlightPlane,HighlightPlane,HighlightPlane
+264551,63735953594379,HighlightPlane,HighlightPlane,HighlightPlane
+264584,63735953594400,None,None,None
+264609,63735953594423,None,None,None
+264618,63735953594446,None,None,None
+264651,63735953594467,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264668,63735953594490,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+264701,63735953594514,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264718,63735953594536,None,None,None
+264751,63735953594558,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264776,63735953594579,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264776,63735953594601,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264809,63735953594624,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264818,63735953594645,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264843,63735953594667,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264876,63735953594690,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264893,63735953594712,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264926,63735953594735,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264926,63735953594749,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264943,63735953594767,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264968,63735953594781,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+264993,63735953594801,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265009,63735953594816,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265018,63735953594836,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265034,63735953594857,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265076,63735953594878,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265076,63735953594892,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265093,63735953594912,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265109,63735953594934,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265151,63735953594957,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265168,63735953594979,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265176,63735953594993,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265193,63735953595013,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265218,63735953595035,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265218,63735953595057,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265251,63735953595078,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+265268,63735953595093,None,None,None
+265268,63735953595113,None,None,None
+265326,63735953595134,None,None,None
+265343,63735953595148,None,Cube,Cube
+265351,63735953595168,None,Cube,Cube
+265376,63735953595190,None,Cube,None
+265384,63735953595212,None,Cube,Cube
+265409,63735953595235,None,Cube,None
+265443,63735953595256,None,Cube,Cube
+265468,63735953595278,None,Cube,Cube
+265484,63735953595301,None,Cube,Cube
+265509,63735953595322,None,None,None
+265518,63735953595337,None,None,None
+265551,63735953595356,None,None,None
+265559,63735953595378,None,None,None
+265576,63735953595400,None,None,None
+265609,63735953595424,None,None,None
+265617,63735953595445,None,None,None
+265642,63735953595459,None,None,None
+265659,63735953595478,None,None,None
+265684,63735953595501,None,None,None
+265701,63735953595523,None,None,None
+265701,63735953595544,None,None,None
+265726,63735953595567,None,None,None
+265759,63735953595582,None,None,None
+265784,63735953595600,None,None,None
+265809,63735953595623,None,None,None
+265817,63735953595639,None,None,None
+265817,63735953595656,None,None,None
+265859,63735953595678,None,None,None
+265876,63735953595700,None,None,None
+265917,63735953595724,None,None,None
+265934,63735953595745,None,None,None
+265942,63735953595766,None,None,None
+265951,63735953595781,None,None,None
+265976,63735953595800,None,None,None
+265984,63735953595816,None,None,None
+265984,63735953595833,None,None,None
+266051,63735953595855,None,None,None
+266059,63735953595870,None,None,None
+266076,63735953595889,None,None,None
+266092,63735953595910,None,None,None
+266109,63735953595923,None,None,None
+266151,63735953595946,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266151,63735953595960,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266159,63735953595978,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266176,63735953595992,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266192,63735953596012,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266209,63735953596033,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266242,63735953596047,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266251,63735953596067,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266284,63735953596089,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266292,63735953596111,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266309,63735953596133,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266342,63735953596155,None,None,None
+266351,63735953596169,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266351,63735953596189,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266384,63735953596212,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266426,63735953596234,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266442,63735953596256,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266467,63735953596278,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266492,63735953596299,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266509,63735953596313,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266517,63735953596333,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266534,63735953596347,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266551,63735953596367,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266559,63735953596389,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266601,63735953596412,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266617,63735953596434,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266634,63735953596448,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266651,63735953596466,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266667,63735953596480,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266667,63735953596499,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266684,63735953596513,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266717,63735953596534,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266717,63735953596548,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266776,63735953596569,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266776,63735953596591,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266784,63735953596611,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266826,63735953596633,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266842,63735953596656,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266851,63735953596677,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266867,63735953596702,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266917,63735953596722,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266942,63735953596744,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266951,63735953596767,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+266959,63735953596788,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267009,63735953596810,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267017,63735953596834,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267042,63735953596855,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267059,63735953596877,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267076,63735953596899,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267092,63735953596913,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267092,63735953596932,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267117,63735953596946,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267159,63735953596967,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267175,63735953596989,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267184,63735953597011,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267217,63735953597033,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267234,63735953597056,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267250,63735953597078,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267275,63735953597101,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267275,63735953597123,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267334,63735953597145,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267342,63735953597166,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267375,63735953597192,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267375,63735953597212,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267409,63735953597234,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267442,63735953597256,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267459,63735953597277,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267484,63735953597302,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267509,63735953597323,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267525,63735953597337,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267542,63735953597356,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267575,63735953597380,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267575,63735953597399,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267592,63735953597423,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267642,63735953597445,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267650,63735953597466,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267667,63735953597489,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267684,63735953597510,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267684,63735953597524,None,None,None
+267725,63735953597546,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267742,63735953597566,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267784,63735953597589,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267792,63735953597612,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267792,63735953597633,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267850,63735953597656,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267859,63735953597677,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267892,63735953597699,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267892,63735953597713,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267917,63735953597734,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267942,63735953597756,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267942,63735953597776,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+267992,63735953597799,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268009,63735953597823,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268042,63735953597845,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268059,63735953597866,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268075,63735953597888,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268100,63735953597910,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268109,63735953597925,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268125,63735953597943,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268142,63735953597960,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268159,63735953597976,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268184,63735953597992,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268192,63735953598010,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268192,63735953598032,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268250,63735953598055,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268259,63735953598077,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268284,63735953598099,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268284,63735953598122,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268317,63735953598143,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268325,63735953598166,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268359,63735953598188,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268400,63735953598210,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268417,63735953598232,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268425,63735953598254,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268450,63735953598276,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268475,63735953598300,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268509,63735953598321,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268525,63735953598343,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268542,63735953598367,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268584,63735953598388,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268592,63735953598411,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268625,63735953598433,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268642,63735953598456,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268658,63735953598478,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268683,63735953598500,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268700,63735953598521,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268725,63735953598543,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268750,63735953598566,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268783,63735953598589,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268808,63735953598610,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268817,63735953598632,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268842,63735953598654,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268842,63735953598667,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268867,63735953598688,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268883,63735953598710,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268917,63735953598732,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268942,63735953598755,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268958,63735953598777,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+268992,63735953598798,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269008,63735953598813,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269017,63735953598832,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269033,63735953598854,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269067,63735953598876,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269083,63735953598890,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269092,63735953598909,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269108,63735953598932,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269142,63735953598953,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269158,63735953598976,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269167,63735953598998,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269217,63735953599021,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269225,63735953599043,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269250,63735953599065,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269275,63735953599090,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269283,63735953599109,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269292,63735953599131,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269325,63735953599155,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269367,63735953599176,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269383,63735953599197,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269392,63735953599220,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269417,63735953599235,None,None,None
+269417,63735953599253,None,None,None
+269458,63735953599276,None,None,None
+269475,63735953599298,None,None,None
+269500,63735953599321,None,None,None
+269525,63735953599343,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+269542,63735953599365,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+269550,63735953599386,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269583,63735953599401,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269608,63735953599421,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269625,63735953599443,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269650,63735953599466,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269675,63735953599490,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269692,63735953599510,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269725,63735953599532,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269742,63735953599553,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269758,63735953599575,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269783,63735953599590,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269783,63735953599609,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269800,63735953599631,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269850,63735953599654,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269858,63735953599676,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269858,63735953599698,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269883,63735953599720,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269925,63735953599743,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269942,63735953599764,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+269958,63735953599788,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+270000,63735953599810,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+270017,63735953599826,None,None,None
+270025,63735953599842,None,None,None
+270050,63735953599865,Cube,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+270058,63735953599888,None,None,None
+270092,63735953599910,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+270117,63735953599932,Orientation Highlighting Plane,64|Mesh|C|Tunnel.002,64|Mesh|C|Tunnel.002
+270150,63735953599955,Orientation Highlighting Plane,LM_Vitrine,LM_Vitrine
+270158,63735953599978,None,None,LM_Vitrine
+270183,63735953599999,None,None,None
+270208,63735953600023,None,None,None
+270225,63735953600043,None,None,None
+270250,63735953600065,None,None,None
+270266,63735953600087,None,None,None
+270308,63735953600109,None,None,None
+270316,63735953600134,None,None,None
+270333,63735953600154,None,None,None
+270350,63735953600177,None,None,None
+270391,63735953600199,None,None,None
+270408,63735953600221,None,None,None
+270416,63735953600243,None,None,None
+270450,63735953600265,None,None,None
+270475,63735953600288,None,None,None
+270483,63735953600309,None,None,None
+270516,63735953600332,None,Orientation Highlighting Plane,Orientation Highlighting Plane
+270550,63735953600354,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+270558,63735953600375,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+270575,63735953600390,None,Orientation Highlighting Plane,Orientation Highlighting Plane
+270583,63735953600410,None,None,None
+270625,63735953600432,None,None,None
+270641,63735953600454,None,None,None
+270675,63735953600477,HighlightPlane,HighlightPlane,HighlightPlane
+270683,63735953600498,6_DigitaleS-BahnAnzeige (10),6_DigitaleS-BahnAnzeige (10),6_DigitaleS-BahnAnzeige (10)
+270708,63735953600513,None,None,None
+270716,63735953600531,None,None,None
+270725,63735953600554,None,None,None
+270766,63735953600576,6_DigitaleS-BahnAnzeige (10),None,None
+270783,63735953600599,6_DigitaleS-BahnAnzeige (10),None,None
+270808,63735953600622,None,None,None
+270833,63735953600644,6_DigitaleS-BahnAnzeige (10),None,6_DigitaleS-BahnAnzeige (10)
+270833,63735953600665,6_DigitaleS-BahnAnzeige (10),None,6_DigitaleS-BahnAnzeige (10)
+270875,63735953600687,HighlightPlane,6_DigitaleS-BahnAnzeige (10),HighlightPlane
+270891,63735953600709,HighlightPlane,6_DigitaleS-BahnAnzeige (10),HighlightPlane
+270933,63735953600731,HighlightPlane,HighlightPlane,HighlightPlane
+270933,63735953600753,HighlightPlane,6_DigitaleS-BahnAnzeige (10),HighlightPlane
+270950,63735953600776,HighlightPlane,HighlightPlane,HighlightPlane
+270975,63735953600799,HighlightPlane,HighlightPlane,HighlightPlane
+270991,63735953600820,HighlightPlane,HighlightPlane,HighlightPlane
+271016,63735953600843,HighlightPlane,HighlightPlane,HighlightPlane
+271058,63735953600865,HighlightPlane,HighlightPlane,HighlightPlane
+271075,63735953600887,HighlightPlane,HighlightPlane,HighlightPlane
+271108,63735953600910,HighlightPlane,HighlightPlane,HighlightPlane
+271116,63735953600931,HighlightPlane,HighlightPlane,HighlightPlane
+271150,63735953600954,HighlightPlane,HighlightPlane,HighlightPlane
+271158,63735953600976,HighlightPlane,HighlightPlane,HighlightPlane
+271175,63735953600997,HighlightPlane,HighlightPlane,HighlightPlane
+271191,63735953601021,HighlightPlane,HighlightPlane,HighlightPlane
+271216,63735953601042,HighlightPlane,HighlightPlane,HighlightPlane
+271250,63735953601065,HighlightPlane,HighlightPlane,HighlightPlane
+271283,63735953601087,None,None,None
+271291,63735953601109,None,None,None
+271325,63735953601131,None,None,None
+271341,63735953601155,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+271358,63735953601176,None,273|Mesh|C|GleisabschnittA.001 (1),None
+271358,63735953601199,None,273|Mesh|C|GleisabschnittA.001 (1),None
+271391,63735953601221,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+271408,63735953601245,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+271441,63735953601265,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+271483,63735953601287,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+271491,63735953601310,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+271508,63735953601332,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+271550,63735953601353,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+271558,63735953601376,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+271575,63735953601398,273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1),273|Mesh|C|GleisabschnittA.001 (1)
+271591,63735953601414,None,None,None
+271625,63735953601432,None,None,None
+271641,63735953601455,None,None,None
+271650,63735953601476,None,None,None
+271683,63735953601498,Cube,None,None
+271691,63735953601521,None,None,None
+271741,63735953601545,None,None,None
+271749,63735953601567,None,None,None
+271774,63735953601591,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+271791,63735953601613,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+271808,63735953601632,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+271841,63735953601654,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+271849,63735953601676,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+271874,63735953601699,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+271899,63735953601721,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None
+271916,63735953601742,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+271949,63735953601764,111|Mesh|C|BahnsteigdünneMetallschwellen.005,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+271958,63735953601788,None,111|Mesh|C|BahnsteigdünneMetallschwellen.005,111|Mesh|C|BahnsteigdünneMetallschwellen.005
+271983,63735953601810,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+272008,63735953601833,None,PlaneSafety 1 (1),PlaneSafety 1 (1)
+272024,63735953601854,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+272058,63735953601876,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+272074,63735953601898,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+272116,63735953601922,PlaneSafety 1 (1),PlaneSafety 1 (1),PlaneSafety 1 (1)
+272133,63735953601943,None,PlaneSafety 1 (1),PlaneSafety 1 (1)
+272149,63735953601967,None,PlaneSafety 1 (1),PlaneSafety 1 (1)
+272183,63735953601987,None,None,None
+272191,63735953602009,None,None,None
+272224,63735953602032,None,None,None
+272241,63735953602053,None,None,None
+272249,63735953602075,None,None,None
+272291,63735953602099,None,None,None
+272308,63735953602122,None,None,None
+272333,63735953602143,None,None,None
+272349,63735953602165,None,None,None
+272358,63735953602188,None,None,None
+272391,63735953602209,None,None,None
+272391,63735953602232,None,None,None
+272441,63735953602254,None,None,None
+272441,63735953602278,None,None,None

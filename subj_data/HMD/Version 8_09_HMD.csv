@@ -1,0 +1,523 @@
+OcutimeStamp,UnityTimeStamp,LeftCollide,RightCollide,CombCollide
+907940,63735949740577,None,109|Mesh|C|BahnsteigDunkleFliesen,None
+907965,63735949740587,None,None,None
+907965,63735949740599,LM_Werbetafel_Display,LM_Werbetafel_Display,LM_Werbetafel_Display
+907965,63735949740609,None,None,None
+907982,63735949740620,None,None,None
+908007,63735949740631,None,None,None
+908007,63735949740641,None,None,None
+908024,63735949740653,None,None,None
+908040,63735949740664,None,None,None
+908040,63735949740675,None,None,None
+908040,63735949740687,None,None,None
+908065,63735949740698,None,None,None
+908065,63735949740709,None,None,None
+908090,63735949740719,None,None,None
+908099,63735949740731,None,None,None
+908099,63735949740741,None,None,None
+908099,63735949740753,None,None,None
+908132,63735949740766,None,None,None
+908157,63735949740775,None,None,None
+908157,63735949740786,None,None,None
+908174,63735949740797,None,None,None
+908182,63735949740807,None,None,None
+908182,63735949740819,None,None,None
+908199,63735949740829,None,None,None
+908215,63735949740841,None,None,None
+908215,63735949740852,None,None,None
+908232,63735949740863,None,None,None
+908240,63735949740874,None,None,None
+908240,63735949740885,None,None,None
+908240,63735949740896,None,None,None
+908274,63735949740907,None,None,None
+908307,63735949740918,None,None,None
+908307,63735949740930,None,None,None
+908315,63735949740940,None,None,None
+908332,63735949740952,None,None,None
+908332,63735949740963,None,None,None
+908349,63735949740974,None,None,None
+908357,63735949740984,None,None,None
+908357,63735949740996,None,None,None
+908373,63735949741008,None,None,None
+908398,63735949741018,None,None,None
+908398,63735949741029,None,None,None
+908407,63735949741041,None,None,None
+908423,63735949741052,None,None,None
+908440,63735949741063,None,None,None
+908440,63735949741074,None,None,None
+908448,63735949741085,None,None,None
+908465,63735949741096,None,None,None
+908465,63735949741107,None,None,None
+908473,63735949741118,None,None,None
+908498,63735949741130,None,None,None
+908498,63735949741141,None,None,None
+908498,63735949741152,None,None,None
+908523,63735949741163,None,None,None
+908548,63735949741174,None,None,None
+908548,63735949741185,None,None,None
+908573,63735949741196,None,None,None
+908582,63735949741207,None,None,None
+908582,63735949741218,None,None,None
+908598,63735949741229,None,None,None
+908615,63735949741241,None,None,None
+908615,63735949741251,None,None,None
+908632,63735949741263,None,None,None
+908640,63735949741276,None,None,None
+908673,63735949741288,None,None,None
+908673,63735949741299,None,None,None
+908682,63735949741310,None,None,None
+908698,63735949741322,None,None,None
+908698,63735949741333,None,None,None
+908715,63735949741344,None,None,None
+908732,63735949741355,None,None,None
+908748,63735949741366,None,None,None
+908748,63735949741377,None,None,None
+908765,63735949741388,None,None,None
+908773,63735949741399,None,None,None
+908773,63735949741410,None,None,None
+908798,63735949741421,None,None,None
+908807,63735949741432,None,None,None
+908807,63735949741444,None,None,None
+908832,63735949741455,None,None,None
+908840,63735949741466,None,None,None
+908865,63735949741477,None,None,None
+908865,63735949741488,None,None,None
+908873,63735949741499,None,None,None
+908882,63735949741510,None,None,None
+908882,63735949741521,None,None,None
+908907,63735949741533,None,None,None
+908915,63735949741544,None,None,None
+908915,63735949741555,None,None,None
+908932,63735949741566,None,None,None
+908948,63735949741577,None,None,None
+908965,63735949741588,None,None,None
+908965,63735949741599,None,None,None
+908982,63735949741611,None,None,None
+908998,63735949741622,None,None,None
+908998,63735949741632,None,None,None
+909015,63735949741643,None,None,None
+909023,63735949741654,None,None,None
+909023,63735949741666,None,None,None
+909040,63735949741676,None,None,None
+909065,63735949741688,None,None,None
+909082,63735949741700,None,None,None
+909082,63735949741711,None,None,None
+909098,63735949741722,None,None,None
+909107,63735949741733,None,None,None
+909107,63735949741744,None,None,None
+909123,63735949741754,None,None,None
+909140,63735949741766,None,None,None
+909140,63735949741777,None,None,None
+909148,63735949741789,None,109|Mesh|C|BahnsteigDunkleFliesen,None
+909165,63735949741800,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909165,63735949741810,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909182,63735949741822,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909198,63735949741833,None,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909215,63735949741843,None,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909215,63735949741854,None,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909240,63735949741865,None,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909248,63735949741876,None,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909248,63735949741888,None,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909273,63735949741898,None,None,None
+909282,63735949741909,109|Mesh|C|BahnsteigDunkleFliesen,None,109|Mesh|C|BahnsteigDunkleFliesen
+909282,63735949741921,109|Mesh|C|BahnsteigDunkleFliesen,None,109|Mesh|C|BahnsteigDunkleFliesen
+909298,63735949741932,109|Mesh|C|BahnsteigDunkleFliesen,None,None
+909315,63735949741943,None,None,None
+909332,63735949741954,None,None,None
+909332,63735949741965,None,None,None
+909340,63735949741976,None,None,None
+909340,63735949741987,None,None,None
+909340,63735949741998,None,None,None
+909373,63735949742009,None,None,None
+909382,63735949742020,None,None,None
+909382,63735949742031,None,None,None
+909407,63735949742043,None,None,None
+909423,63735949742054,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909423,63735949742065,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909423,63735949742077,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909448,63735949742087,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909482,63735949742099,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909482,63735949742109,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909498,63735949742121,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909498,63735949742132,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909498,63735949742143,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909507,63735949742154,109|Mesh|C|BahnsteigDunkleFliesen,110|Mesh|C|BahnsteigHelleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909507,63735949742165,109|Mesh|C|BahnsteigDunkleFliesen,110|Mesh|C|BahnsteigHelleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909507,63735949742176,109|Mesh|C|BahnsteigDunkleFliesen,110|Mesh|C|BahnsteigHelleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909540,63735949742187,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909565,63735949742199,None,None,None
+909565,63735949742210,None,None,None
+909565,63735949742221,None,None,None
+909598,63735949742232,None,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909632,63735949742243,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909632,63735949742254,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909640,63735949742266,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909648,63735949742277,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909648,63735949742288,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909673,63735949742298,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909682,63735949742310,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909682,63735949742321,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909682,63735949742332,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen,110|Mesh|C|BahnsteigHelleFliesen
+909707,63735949742342,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909732,63735949742354,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909732,63735949742365,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen,109|Mesh|C|BahnsteigDunkleFliesen
+909748,63735949742376,None,None,None
+909757,63735949742387,None,None,None
+909757,63735949742398,None,None,None
+909782,63735949742411,None,None,None
+909790,63735949742421,None,None,None
+909790,63735949742431,None,None,None
+909807,63735949742443,None,None,None
+909823,63735949742453,None,None,None
+909840,63735949742465,None,None,None
+909840,63735949742477,None,None,None
+909848,63735949742488,None,None,None
+909848,63735949742499,None,None,None
+909848,63735949742509,None,None,None
+909898,63735949742530,None,None,None
+909898,63735949742541,None,None,None
+909915,63735949742552,None,None,None
+909931,63735949742562,None,None,None
+909931,63735949742573,None,None,None
+909948,63735949742584,None,None,None
+909965,63735949742596,None,None,None
+909965,63735949742606,None,None,None
+909965,63735949742618,None,None,None
+909990,63735949742629,None,None,None
+910015,63735949742640,None,None,None
+910015,63735949742651,None,None,None
+910040,63735949742662,None,None,None
+910048,63735949742674,None,None,None
+910048,63735949742685,None,None,None
+910065,63735949742695,None,None,None
+910073,63735949742707,None,None,None
+910073,63735949742718,None,None,None
+910106,63735949742729,None,None,None
+910115,63735949742740,None,None,None
+910115,63735949742750,None,None,None
+910140,63735949742762,None,None,None
+910148,63735949742774,None,None,None
+910156,63735949742784,None,None,None
+910156,63735949742796,None,None,None
+910173,63735949742806,None,None,None
+910181,63735949742818,None,None,None
+910181,63735949742829,None,None,None
+910181,63735949742840,None,None,None
+910215,63735949742852,None,None,None
+910248,63735949742863,None,None,None
+910248,63735949742873,None,None,None
+910256,63735949742885,None,None,None
+910273,63735949742895,None,None,None
+910273,63735949742907,None,None,None
+910281,63735949742918,None,None,None
+910298,63735949742929,None,None,None
+910315,63735949742940,None,None,None
+910315,63735949742951,None,None,None
+910323,63735949742962,None,None,None
+910340,63735949742973,None,None,None
+910340,63735949742984,None,None,None
+910373,63735949742995,None,None,None
+910381,63735949743007,None,None,None
+910381,63735949743018,None,None,None
+910398,63735949743030,None,None,None
+910415,63735949743041,None,None,None
+910431,63735949743053,None,None,None
+910431,63735949743064,None,None,None
+910448,63735949743076,None,None,None
+910456,63735949743087,None,None,None
+910473,63735949743099,None,None,None
+910473,63735949743110,None,None,None
+910490,63735949743121,None,None,None
+910506,63735949743132,None,None,None
+910506,63735949743142,None,None,None
+910523,63735949743154,None,None,None
+910540,63735949743165,None,None,None
+910540,63735949743176,None,None,None
+910556,63735949743187,None,None,None
+910573,63735949743198,None,None,None
+910573,63735949743209,None,None,None
+910581,63735949743221,None,None,None
+910598,63735949743231,None,None,None
+910598,63735949743242,None,None,None
+910598,63735949743254,None,None,None
+910623,63735949743264,None,None,None
+910656,63735949743276,None,None,None
+910656,63735949743287,None,None,None
+910673,63735949743298,None,None,None
+910681,63735949743309,None,None,None
+910681,63735949743320,None,None,None
+910698,63735949743332,None,None,None
+910715,63735949743343,None,None,None
+910723,63735949743353,None,None,None
+910723,63735949743365,None,None,None
+910740,63735949743376,None,None,None
+910740,63735949743387,None,None,None
+910740,63735949743398,None,None,None
+910773,63735949743409,None,None,None
+910781,63735949743421,None,None,None
+910781,63735949743430,None,None,None
+910806,63735949743442,None,None,None
+910823,63735949743452,None,None,None
+910840,63735949743465,None,None,None
+910840,63735949743475,None,None,None
+910856,63735949743486,None,None,None
+910873,63735949743497,None,None,None
+910873,63735949743508,None,None,None
+910881,63735949743520,None,None,None
+910906,63735949743530,None,None,None
+910906,63735949743541,None,None,None
+910906,63735949743552,None,None,None
+910923,63735949743563,None,None,None
+910923,63735949743575,None,None,None
+910923,63735949743586,None,None,None
+910956,63735949743597,None,None,None
+910981,63735949743608,None,None,None
+910998,63735949743619,None,None,None
+910998,63735949743630,None,None,None
+911015,63735949743641,None,None,None
+911015,63735949743653,None,None,None
+911015,63735949743663,None,None,None
+911040,63735949743675,None,None,None
+911073,63735949743686,None,None,None
+911073,63735949743697,None,None,None
+911081,63735949743708,None,None,None
+911098,63735949743720,None,None,None
+911098,63735949743731,None,None,None
+911106,63735949743742,None,None,None
+911115,63735949743753,None,None,None
+911140,63735949743765,None,None,None
+911140,63735949743775,None,None,None
+911148,63735949743787,None,None,None
+911181,63735949743797,None,None,None
+911181,63735949743810,None,None,None
+911190,63735949743820,None,None,None
+911206,63735949743831,None,None,None
+911206,63735949743842,None,None,None
+911215,63735949743854,None,None,None
+911240,63735949743864,None,None,None
+911248,63735949743876,None,None,None
+911248,63735949743886,None,None,None
+911265,63735949743898,None,110|Mesh|C|BahnsteigHelleFliesen,None
+911290,63735949743909,None,None,None
+911290,63735949743919,None,None,None
+911306,63735949743931,None,None,None
+911315,63735949743942,None,None,None
+911331,63735949743954,None,None,None
+911331,63735949743964,None,None,None
+911348,63735949743975,None,None,None
+911365,63735949743987,None,None,None
+911365,63735949743997,None,None,None
+911373,63735949744009,None,None,None
+911406,63735949744020,None,None,None
+911406,63735949744031,None,None,None
+911415,63735949744042,None,None,None
+911439,63735949744054,None,None,None
+911439,63735949744064,None,None,None
+911439,63735949744076,None,None,None
+911448,63735949744087,None,None,None
+911481,63735949744098,None,None,None
+911481,63735949744109,None,None,None
+911498,63735949744120,None,None,None
+911514,63735949744132,None,None,None
+911514,63735949744142,None,None,None
+911531,63735949744155,None,None,None
+911531,63735949744164,None,None,None
+911531,63735949744175,None,None,None
+911539,63735949744187,None,None,None
+911564,63735949744198,None,None,None
+911564,63735949744209,None,None,None
+911581,63735949744220,None,None,None
+911598,63735949744231,None,None,None
+911614,63735949744243,None,None,None
+911614,63735949744254,None,None,None
+911631,63735949744265,None,None,None
+911648,63735949744276,None,None,None
+911648,63735949744286,None,None,None
+911664,63735949744298,None,None,None
+911664,63735949744309,None,None,None
+911664,63735949744320,None,None,None
+911689,63735949744330,None,None,None
+911706,63735949744342,None,None,None
+911739,63735949744354,None,None,None
+911739,63735949744364,None,None,None
+911748,63735949744376,None,None,None
+911773,63735949744386,None,None,None
+911773,63735949744397,None,None,None
+911781,63735949744409,None,None,None
+911798,63735949744420,None,None,None
+911798,63735949744431,None,None,None
+911806,63735949744442,None,None,None
+911823,63735949744452,None,None,None
+911823,63735949744464,None,41_Liniennetzplan (4),41_Liniennetzplan (4)
+911823,63735949744475,41_Liniennetzplan (4),41_Liniennetzplan (4),41_Liniennetzplan (4)
+911848,63735949744486,None,None,None
+911881,63735949744498,41_Liniennetzplan (4),None,None
+911881,63735949744509,None,None,None
+911889,63735949744520,None,None,None
+911906,63735949744531,41_Liniennetzplan (4),None,None
+911906,63735949744542,None,None,None
+911914,63735949744553,None,None,None
+911948,63735949744564,None,None,None
+911948,63735949744575,None,None,None
+911948,63735949744586,None,None,None
+911956,63735949744598,None,None,None
+911956,63735949744609,None,None,None
+911956,63735949744621,None,None,None
+911998,63735949744632,None,None,None
+912023,63735949744643,HighlightPlane,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+912023,63735949744654,HighlightPlane,6_DigitaleS-BahnAnzeige,HighlightPlane
+912039,63735949744665,HighlightPlane,HighlightPlane,HighlightPlane
+912048,63735949744676,HighlightPlane,HighlightPlane,HighlightPlane
+912048,63735949744687,HighlightPlane,HighlightPlane,HighlightPlane
+912073,63735949744698,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+912081,63735949744709,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+912098,63735949744720,6_DigitaleS-BahnAnzeige,HighlightPlane,HighlightPlane
+912098,63735949744731,6_DigitaleS-BahnAnzeige,HighlightPlane,HighlightPlane
+912114,63735949744742,HighlightPlane,HighlightPlane,HighlightPlane
+912114,63735949744753,HighlightPlane,HighlightPlane,HighlightPlane
+912114,63735949744764,HighlightPlane,HighlightPlane,HighlightPlane
+912139,63735949744774,HighlightPlane,HighlightPlane,HighlightPlane
+912139,63735949744786,6_DigitaleS-BahnAnzeige,HighlightPlane,HighlightPlane
+912139,63735949744797,6_DigitaleS-BahnAnzeige,HighlightPlane,HighlightPlane
+912164,63735949744807,HighlightPlane,HighlightPlane,HighlightPlane
+912181,63735949744819,HighlightPlane,HighlightPlane,HighlightPlane
+912181,63735949744830,HighlightPlane,HighlightPlane,HighlightPlane
+912206,63735949744841,HighlightPlane,HighlightPlane,HighlightPlane
+912223,63735949744852,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+912248,63735949744863,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+912248,63735949744874,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+912256,63735949744885,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+912273,63735949744897,6_DigitaleS-BahnAnzeige,HighlightPlane,6_DigitaleS-BahnAnzeige
+912273,63735949744907,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+912289,63735949744918,6_DigitaleS-BahnAnzeige,HighlightPlane,6_DigitaleS-BahnAnzeige
+912306,63735949744930,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+912306,63735949744941,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+912314,63735949744952,6_DigitaleS-BahnAnzeige,HighlightPlane,6_DigitaleS-BahnAnzeige
+912339,63735949744964,HighlightPlane,HighlightPlane,HighlightPlane
+912348,63735949744975,HighlightPlane,HighlightPlane,HighlightPlane
+912348,63735949744986,HighlightPlane,6_DigitaleS-BahnAnzeige,HighlightPlane
+912373,63735949744998,HighlightPlane,HighlightPlane,HighlightPlane
+912381,63735949745008,HighlightPlane,HighlightPlane,HighlightPlane
+912381,63735949745020,HighlightPlane,HighlightPlane,HighlightPlane
+912398,63735949745031,HighlightPlane,HighlightPlane,HighlightPlane
+912414,63735949745042,HighlightPlane,HighlightPlane,HighlightPlane
+912414,63735949745054,HighlightPlane,HighlightPlane,HighlightPlane
+912439,63735949745065,None,None,None
+912448,63735949745075,None,None,None
+912448,63735949745087,None,None,None
+912448,63735949745098,None,None,None
+912473,63735949745109,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912506,63735949745119,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912506,63735949745131,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912514,63735949745142,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912531,63735949745153,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912548,63735949745164,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912548,63735949745175,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912564,63735949745187,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912564,63735949745197,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912564,63735949745210,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912581,63735949745221,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912606,63735949745232,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+912606,63735949745243,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+912623,63735949745254,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912639,63735949745265,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+912648,63735949745276,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912648,63735949745287,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912648,63735949745298,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+912673,63735949745309,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+912673,63735949745320,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+912698,63735949745331,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+912698,63735949745343,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+912698,63735949745354,Orientation Highlighting Plane,Station Name,Orientation Highlighting Plane
+912723,63735949745366,None,None,None
+912748,63735949745377,HighlightPlane,HighlightPlane,HighlightPlane
+912773,63735949745388,HighlightPlane,HighlightPlane,HighlightPlane
+912773,63735949745398,HighlightPlane,HighlightPlane,HighlightPlane
+912781,63735949745410,HighlightPlane,HighlightPlane,HighlightPlane
+912798,63735949745421,HighlightPlane,HighlightPlane,HighlightPlane
+912798,63735949745432,HighlightPlane,HighlightPlane,HighlightPlane
+912806,63735949745443,HighlightPlane,HighlightPlane,HighlightPlane
+912823,63735949745454,HighlightPlane,HighlightPlane,HighlightPlane
+912823,63735949745465,HighlightPlane,HighlightPlane,HighlightPlane
+912839,63735949745476,HighlightPlane,HighlightPlane,HighlightPlane
+912873,63735949745487,HighlightPlane,HighlightPlane,HighlightPlane
+912873,63735949745498,HighlightPlane,HighlightPlane,HighlightPlane
+912873,63735949745509,HighlightPlane,HighlightPlane,HighlightPlane
+912881,63735949745520,HighlightPlane,HighlightPlane,HighlightPlane
+912906,63735949745532,HighlightPlane,HighlightPlane,HighlightPlane
+912906,63735949745543,HighlightPlane,HighlightPlane,HighlightPlane
+912914,63735949745554,HighlightPlane,HighlightPlane,HighlightPlane
+912948,63735949745565,HighlightPlane,HighlightPlane,HighlightPlane
+912948,63735949745576,HighlightPlane,HighlightPlane,HighlightPlane
+912956,63735949745587,HighlightPlane,HighlightPlane,HighlightPlane
+912972,63735949745598,HighlightPlane,HighlightPlane,HighlightPlane
+912972,63735949745609,HighlightPlane,HighlightPlane,HighlightPlane
+912981,63735949745620,HighlightPlane,HighlightPlane,HighlightPlane
+913006,63735949745631,6_DigitaleS-BahnAnzeige,HighlightPlane,HighlightPlane
+913006,63735949745642,6_DigitaleS-BahnAnzeige,HighlightPlane,HighlightPlane
+913014,63735949745653,6_DigitaleS-BahnAnzeige,HighlightPlane,HighlightPlane
+913031,63735949745665,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+913047,63735949745676,6_DigitaleS-BahnAnzeige,HighlightPlane,HighlightPlane
+913047,63735949745686,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+913064,63735949745697,None,HighlightPlane,HighlightPlane
+913081,63735949745709,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+913081,63735949745720,None,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+913089,63735949745731,None,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+913114,63735949745742,None,6_DigitaleS-BahnAnzeige,6_DigitaleS-BahnAnzeige
+913122,63735949745753,None,None,None
+913122,63735949745764,None,None,None
+913139,63735949745775,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913156,63735949745787,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913156,63735949745798,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913172,63735949745809,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913181,63735949745821,Orientation Highlighting Plane,Station Name,Orientation Highlighting Plane
+913181,63735949745832,Orientation Highlighting Plane,Station Name,Orientation Highlighting Plane
+913206,63735949745842,Orientation Highlighting Plane,Station Name,Orientation Highlighting Plane
+913206,63735949745853,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913206,63735949745864,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913239,63735949745877,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913264,63735949745887,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913281,63735949745898,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913281,63735949745909,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913297,63735949745921,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913314,63735949745932,Orientation Highlighting Plane,Station Name,Orientation Highlighting Plane
+913314,63735949745943,Orientation Highlighting Plane,Station Name,Orientation Highlighting Plane
+913322,63735949745954,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913339,63735949745965,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913339,63735949745976,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913356,63735949745987,Station Name,None,Station Name
+913372,63735949745998,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913381,63735949746009,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913381,63735949746020,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913406,63735949746031,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913414,63735949746042,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913414,63735949746053,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913431,63735949746064,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913447,63735949746077,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913464,63735949746088,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913464,63735949746098,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913472,63735949746110,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913489,63735949746121,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913489,63735949746132,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913506,63735949746144,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913539,63735949746154,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913539,63735949746166,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913539,63735949746177,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913547,63735949746188,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913572,63735949746199,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913572,63735949746210,Orientation Highlighting Plane,None,Station Name
+913589,63735949746222,Orientation Highlighting Plane,None,None
+913606,63735949746232,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913606,63735949746243,Orientation Highlighting Plane,None,Orientation Highlighting Plane
+913614,63735949746254,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913631,63735949746265,Orientation Highlighting Plane,Orientation Highlighting Plane,Orientation Highlighting Plane
+913664,63735949746276,HighlightPlane,HighlightPlane,HighlightPlane
+913664,63735949746287,HighlightPlane,HighlightPlane,HighlightPlane
+913672,63735949746298,HighlightPlane,HighlightPlane,HighlightPlane
+913672,63735949746309,HighlightPlane,HighlightPlane,HighlightPlane
+913672,63735949746320,HighlightPlane,HighlightPlane,HighlightPlane
+913689,63735949746332,HighlightPlane,HighlightPlane,HighlightPlane
+913722,63735949746343,HighlightPlane,HighlightPlane,HighlightPlane
+913722,63735949746354,HighlightPlane,HighlightPlane,HighlightPlane
+913739,63735949746364,HighlightPlane,HighlightPlane,HighlightPlane
+913747,63735949746375,HighlightPlane,HighlightPlane,HighlightPlane

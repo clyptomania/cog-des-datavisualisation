@@ -1,0 +1,82 @@
+63735869548991: User_ID: 5
+63735869548992: Stimuli order, room name, target idx, scotoma condition:
+63735869548993: Tutorial_0_0 - quest_0
+63735869548993: BreakRoom_0_1 - quest_0
+63735869548994: Version 8_0_2 - quest_0
+63735869548994: BreakRoom_0_3 - quest_0
+63735869548994: Version 2_0_4 - quest_0
+63735869548995: BreakRoom_0_5 - quest_0
+63735869548995: Version 5_0_6 - quest_0
+63735869548996: BreakRoom_0_7 - quest_0
+63735869548996: Version 0_0_8 - quest_0
+63735869548997: BreakRoom_0_9 - quest_0
+63735869548997: Version 7_0_10 - quest_0
+63735869548998: BreakRoom_0_11 - quest_0
+63735869548998: Version 9_0_12 - quest_0
+63735869548998: BreakRoom_0_13 - quest_0
+63735869548999: Version 6_0_14 - quest_0
+63735869548999: BreakRoom_1_15 - quest_1
+63735869549015: Tutorial
+63735869549248: Started: [1] Tutorial_0_0
+63735869729255: Elapsed time: 180006
+63735869729255: Trial ended: Ran out of time
+63735869729268: BreakRoom
+63735869729320: Started: [1] BreakRoom_0_1
+63735869901074: Elapsed time: 171753
+63735869901074: Trial ended: Ran out of time
+63735869901090: Version 8
+63735869902385: Started: [1] Version 8_0_2
+63735870184920: Elapsed time: 282534
+63735870184920: Trial ended: Ran out of time
+63735870184982: BreakRoom
+63735870185035: Started: [1] BreakRoom_0_3
+63735870243901: Elapsed time: 58865
+63735870243901: Trial ended: Ran out of time
+63735870243913: Version 2
+63735870244748: Started: [1] Version 2_0_4
+63735870348394: Elapsed time: 103646
+63735870348395: Trial ended: Ran out of time
+63735870348455: BreakRoom
+63735870348514: Started: [1] BreakRoom_0_5
+63735870404414: Elapsed time: 55900
+63735870404415: Trial ended: Ran out of time
+63735870404426: Version 5
+63735870405251: Started: [1] Version 5_0_6
+63735870492371: Elapsed time: 87119
+63735870492371: Trial ended: Ran out of time
+63735870492418: BreakRoom
+63735870492461: Started: [1] BreakRoom_0_7
+63735870536540: Elapsed time: 44079
+63735870536541: Trial ended: Ran out of time
+63735870536551: Version 0
+63735870537317: Started: [1] Version 0_0_8
+63735870580699: Elapsed time: 43382
+63735870580700: Trial ended: Ran out of time
+63735870580732: BreakRoom
+63735870580781: Started: [1] BreakRoom_0_9
+63735870692312: Elapsed time: 111530
+63735870692312: Trial ended: Ran out of time
+63735870692323: Version 7
+63735870693184: Started: [1] Version 7_0_10
+63735870784902: Elapsed time: 91717
+63735870784902: Trial ended: Ran out of time
+63735870784938: BreakRoom
+63735870784980: Started: [1] BreakRoom_0_11
+63735870836120: Elapsed time: 51139
+63735870836120: Trial ended: Ran out of time
+63735870836132: Version 9
+63735870837196: Started: [1] Version 9_0_12
+63735870887576: Elapsed time: 50379
+63735870887576: Trial ended: Ran out of time
+63735870887624: BreakRoom
+63735870887680: Started: [1] BreakRoom_0_13
+63735870933264: Elapsed time: 45583
+63735870933264: Trial ended: Ran out of time
+63735870933275: Version 6
+63735870934215: Started: [1] Version 6_0_14
+63735871009495: Elapsed time: 75279
+63735871009495: Trial ended: Ran out of time
+63735871009540: BreakRoom
+63735871009589: Started: [2] BreakRoom_1_15
+63735871053394: Elapsed time: 43804
+63735871053394: Trial ended: Ran out of time

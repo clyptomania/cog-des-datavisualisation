@@ -1,0 +1,20 @@
+63735867353359: User_ID: 4
+63735867353360: Stimuli order, room name, target idx, scotoma condition:
+63735867353361: Tutorial_0_0 - quest_0
+63735867353361: BreakRoom_0_1 - quest_0
+63735867353362: Version 9_0_2 - quest_0
+63735867353362: BreakRoom_0_3 - quest_0
+63735867353363: Version 5_0_4 - quest_0
+63735867353364: BreakRoom_0_5 - quest_0
+63735867353364: Version 6_0_6 - quest_0
+63735867353365: BreakRoom_0_7 - quest_0
+63735867353365: Version 0_0_8 - quest_0
+63735867353365: BreakRoom_0_9 - quest_0
+63735867353366: Version 7_0_10 - quest_0
+63735867353366: BreakRoom_0_11 - quest_0
+63735867353367: Version 8_0_12 - quest_0
+63735867353367: BreakRoom_0_13 - quest_0
+63735867353368: Version 2_0_14 - quest_0
+63735867353368: BreakRoom_1_15 - quest_1
+63735867464647: Elapsed time: -1
+63735867464647: Trial ended: Ran out of time
