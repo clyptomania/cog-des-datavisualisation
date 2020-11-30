@@ -1,5 +1,13 @@
 sceneSetups:
+- path: Assets/Scenes/Data Visualisation.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
 - path: Assets/Scenes/Subjdata.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Version 0.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
