@@ -168,7 +168,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_05_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &2722723
 GameObject:
   m_ObjectHideFlags: 0
@@ -201,7 +205,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_10_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &2722725
 Transform:
   m_ObjectHideFlags: 0
@@ -262,7 +270,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_13_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &11561242
 GameObject:
   m_ObjectHideFlags: 0
@@ -309,7 +321,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_15_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &12856246
 GameObject:
   m_ObjectHideFlags: 0
@@ -356,7 +372,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_13_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &23180411
 GameObject:
   m_ObjectHideFlags: 0
@@ -403,7 +423,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_06_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &29531271
 GameObject:
   m_ObjectHideFlags: 0
@@ -450,7 +474,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_04_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &50404258
 GameObject:
   m_ObjectHideFlags: 0
@@ -497,7 +525,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_07_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &68303251
 GameObject:
   m_ObjectHideFlags: 0
@@ -544,7 +576,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_13_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &99317121
 GameObject:
   m_ObjectHideFlags: 0
@@ -591,7 +627,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_12_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &121500329
 GameObject:
   m_ObjectHideFlags: 0
@@ -638,7 +678,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_16_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &124535798
 GameObject:
   m_ObjectHideFlags: 0
@@ -671,7 +715,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_14_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &124535800
 Transform:
   m_ObjectHideFlags: 0
@@ -732,7 +780,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_04_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &150402418
 GameObject:
   m_ObjectHideFlags: 0
@@ -765,7 +817,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_15_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &150402420
 Transform:
   m_ObjectHideFlags: 0
@@ -826,7 +882,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_01_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &164587887
 GameObject:
   m_ObjectHideFlags: 0
@@ -873,7 +933,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_16_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &189778508
 GameObject:
   m_ObjectHideFlags: 0
@@ -920,7 +984,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_06_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &199045810
 GameObject:
   m_ObjectHideFlags: 0
@@ -953,7 +1021,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_09_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &199045812
 Transform:
   m_ObjectHideFlags: 0
@@ -1014,7 +1086,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_11_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &262378108
 GameObject:
   m_ObjectHideFlags: 0
@@ -1061,7 +1137,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_01_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &304048433
 GameObject:
   m_ObjectHideFlags: 0
@@ -1108,7 +1188,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_03_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &304585083
 GameObject:
   m_ObjectHideFlags: 0
@@ -1155,7 +1239,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_00_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &339321789
 GameObject:
   m_ObjectHideFlags: 0
@@ -1188,7 +1276,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_04_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &339321791
 Transform:
   m_ObjectHideFlags: 0
@@ -1249,7 +1341,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_04_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &396935197
 GameObject:
   m_ObjectHideFlags: 0
@@ -1329,7 +1425,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_13_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &406255039
 Transform:
   m_ObjectHideFlags: 0
@@ -1390,7 +1490,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_04_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &456790147
 GameObject:
   m_ObjectHideFlags: 0
@@ -1437,7 +1541,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_01_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &458261561
 GameObject:
   m_ObjectHideFlags: 0
@@ -1484,7 +1592,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_06_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &471610404
 GameObject:
   m_ObjectHideFlags: 0
@@ -1531,7 +1643,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_16_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &491672058
 GameObject:
   m_ObjectHideFlags: 0
@@ -1578,7 +1694,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_14_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &498977279
 GameObject:
   m_ObjectHideFlags: 0
@@ -1625,7 +1745,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_16_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &502895023
 GameObject:
   m_ObjectHideFlags: 0
@@ -1672,7 +1796,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_15_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &541474706
 GameObject:
   m_ObjectHideFlags: 0
@@ -1719,7 +1847,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_09_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &560104191
 GameObject:
   m_ObjectHideFlags: 0
@@ -1766,7 +1898,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_10_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &564724700
 GameObject:
   m_ObjectHideFlags: 0
@@ -1813,7 +1949,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_12_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &567280185
 GameObject:
   m_ObjectHideFlags: 0
@@ -1860,7 +2000,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_13_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &568046691
 GameObject:
   m_ObjectHideFlags: 0
@@ -1907,7 +2051,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_11_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &578340943
 GameObject:
   m_ObjectHideFlags: 0
@@ -1954,7 +2102,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_02_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &599020248
 GameObject:
   m_ObjectHideFlags: 0
@@ -2001,7 +2153,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_02_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &614825038
 GameObject:
   m_ObjectHideFlags: 0
@@ -2048,7 +2204,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_10_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &624653073
 GameObject:
   m_ObjectHideFlags: 0
@@ -2095,7 +2255,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_01_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &670477803
 GameObject:
   m_ObjectHideFlags: 0
@@ -2128,7 +2292,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_01_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &670477805
 Transform:
   m_ObjectHideFlags: 0
@@ -2189,7 +2357,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_14_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &683984691
 GameObject:
   m_ObjectHideFlags: 0
@@ -2236,7 +2408,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_03_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &731264425
 GameObject:
   m_ObjectHideFlags: 0
@@ -2283,7 +2459,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_06_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &735589879
 GameObject:
   m_ObjectHideFlags: 0
@@ -2330,7 +2510,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_16_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &793136680
 GameObject:
   m_ObjectHideFlags: 0
@@ -2377,7 +2561,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_07_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &832080028
 GameObject:
   m_ObjectHideFlags: 0
@@ -2424,7 +2612,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_05_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &846328972
 GameObject:
   m_ObjectHideFlags: 0
@@ -2471,7 +2663,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_03_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &855282836
 GameObject:
   m_ObjectHideFlags: 0
@@ -2518,7 +2714,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_03_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &891606432
 GameObject:
   m_ObjectHideFlags: 0
@@ -2551,7 +2751,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_02_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &891606434
 Transform:
   m_ObjectHideFlags: 0
@@ -2612,7 +2816,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_13_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &906012713
 GameObject:
   m_ObjectHideFlags: 0
@@ -2659,7 +2867,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_07_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &911210992
 GameObject:
   m_ObjectHideFlags: 0
@@ -2706,7 +2918,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_05_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &912478088
 GameObject:
   m_ObjectHideFlags: 0
@@ -2753,7 +2969,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_10_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &915240925
 GameObject:
   m_ObjectHideFlags: 0
@@ -2800,7 +3020,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_00_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &963865702
 GameObject:
   m_ObjectHideFlags: 0
@@ -2847,7 +3071,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_08_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1005657680
 GameObject:
   m_ObjectHideFlags: 0
@@ -2880,7 +3108,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_08_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &1005657682
 Transform:
   m_ObjectHideFlags: 0
@@ -2941,7 +3173,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_06_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1043028416
 GameObject:
   m_ObjectHideFlags: 0
@@ -2988,7 +3224,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_07_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1050937846
 GameObject:
   m_ObjectHideFlags: 0
@@ -3035,7 +3275,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_15_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1102903139
 GameObject:
   m_ObjectHideFlags: 0
@@ -3082,7 +3326,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_02_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1106242353
 GameObject:
   m_ObjectHideFlags: 0
@@ -3129,7 +3377,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_07_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1106503132
 GameObject:
   m_ObjectHideFlags: 0
@@ -3176,7 +3428,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_10_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1134163622
 GameObject:
   m_ObjectHideFlags: 0
@@ -3223,7 +3479,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_09_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1145077265
 GameObject:
   m_ObjectHideFlags: 0
@@ -3256,7 +3516,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_00_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &1145077267
 Transform:
   m_ObjectHideFlags: 0
@@ -3317,7 +3581,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_01_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1209816340
 GameObject:
   m_ObjectHideFlags: 0
@@ -3364,7 +3632,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_15_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1214191679
 GameObject:
   m_ObjectHideFlags: 0
@@ -3411,7 +3683,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_15_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1224183173
 GameObject:
   m_ObjectHideFlags: 0
@@ -3458,7 +3734,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_15_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1224400795
 GameObject:
   m_ObjectHideFlags: 0
@@ -3505,7 +3785,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_05_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1230049587
 GameObject:
   m_ObjectHideFlags: 0
@@ -3552,7 +3836,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_09_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1251687206
 GameObject:
   m_ObjectHideFlags: 0
@@ -3599,7 +3887,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_09_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1276122174
 GameObject:
   m_ObjectHideFlags: 0
@@ -3632,7 +3924,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_03_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &1276122176
 Transform:
   m_ObjectHideFlags: 0
@@ -3693,7 +3989,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_12_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1296169022
 GameObject:
   m_ObjectHideFlags: 0
@@ -3740,7 +4040,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_03_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1349006418
 GameObject:
   m_ObjectHideFlags: 0
@@ -3787,7 +4091,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_04_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1350324866
 GameObject:
   m_ObjectHideFlags: 0
@@ -3834,7 +4142,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_02_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1370665313
 GameObject:
   m_ObjectHideFlags: 0
@@ -3928,7 +4240,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_02_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1375006435
 GameObject:
   m_ObjectHideFlags: 0
@@ -3961,7 +4277,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_11_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &1375006437
 Transform:
   m_ObjectHideFlags: 0
@@ -4022,7 +4342,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_04_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1425104823
 GameObject:
   m_ObjectHideFlags: 0
@@ -4069,7 +4393,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_09_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1426770780
 GameObject:
   m_ObjectHideFlags: 0
@@ -4116,7 +4444,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_08_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1445231591
 GameObject:
   m_ObjectHideFlags: 0
@@ -4163,7 +4495,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_01_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1450657773
 GameObject:
   m_ObjectHideFlags: 0
@@ -4243,7 +4579,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_05_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &1480237558
 Transform:
   m_ObjectHideFlags: 0
@@ -4304,7 +4644,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_08_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1490008297
 GameObject:
   m_ObjectHideFlags: 0
@@ -4351,7 +4695,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_14_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1498358975
 GameObject:
   m_ObjectHideFlags: 0
@@ -4398,7 +4746,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_08_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1520636250
 GameObject:
   m_ObjectHideFlags: 0
@@ -4445,7 +4797,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_10_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1545159676
 GameObject:
   m_ObjectHideFlags: 0
@@ -4492,7 +4848,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_12_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1547989210
 GameObject:
   m_ObjectHideFlags: 0
@@ -4539,7 +4899,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_11_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1551005555
 GameObject:
   m_ObjectHideFlags: 0
@@ -4586,7 +4950,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_16_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1569235166
 GameObject:
   m_ObjectHideFlags: 0
@@ -4633,7 +5001,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_11_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1584585720
 GameObject:
   m_ObjectHideFlags: 0
@@ -4680,7 +5052,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_08_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1605309794
 GameObject:
   m_ObjectHideFlags: 0
@@ -4727,7 +5103,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_00_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1616033844
 GameObject:
   m_ObjectHideFlags: 0
@@ -4774,7 +5154,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_14_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1656749198
 GameObject:
   m_ObjectHideFlags: 0
@@ -4821,7 +5205,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_05_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1701696886
 GameObject:
   m_ObjectHideFlags: 0
@@ -4868,7 +5256,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_02_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1712112624
 GameObject:
   m_ObjectHideFlags: 0
@@ -4901,7 +5293,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_07_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &1712112626
 Transform:
   m_ObjectHideFlags: 0
@@ -4962,7 +5358,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_08_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1734919741
 GameObject:
   m_ObjectHideFlags: 0
@@ -5009,7 +5409,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_13_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1745057624
 GameObject:
   m_ObjectHideFlags: 0
@@ -5056,7 +5460,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_00_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1745453812
 GameObject:
   m_ObjectHideFlags: 0
@@ -5103,7 +5511,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 6_12_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1795503194
 GameObject:
   m_ObjectHideFlags: 0
@@ -5150,7 +5562,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_10_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1804265833
 GameObject:
   m_ObjectHideFlags: 0
@@ -5197,7 +5613,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_06_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1804671009
 GameObject:
   m_ObjectHideFlags: 0
@@ -5244,7 +5664,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_14_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1836159745
 GameObject:
   m_ObjectHideFlags: 0
@@ -5277,7 +5701,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_06_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &1836159747
 Transform:
   m_ObjectHideFlags: 0
@@ -5384,7 +5812,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 9_07_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1907813395
 GameObject:
   m_ObjectHideFlags: 0
@@ -5431,7 +5863,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_03_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1914404981
 GameObject:
   m_ObjectHideFlags: 0
@@ -5478,7 +5914,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_05_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &1965960910
 GameObject:
   m_ObjectHideFlags: 0
@@ -5572,7 +6012,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_11_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &2012452324
 GameObject:
   m_ObjectHideFlags: 0
@@ -5619,7 +6063,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 7_14_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &2028096302
 GameObject:
   m_ObjectHideFlags: 0
@@ -5666,7 +6114,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 5_11_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &2029859172
 GameObject:
   m_ObjectHideFlags: 0
@@ -5713,7 +6165,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_09_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &2047529373
 GameObject:
   m_ObjectHideFlags: 0
@@ -5807,7 +6263,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 8_01_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &2062657046
 GameObject:
   m_ObjectHideFlags: 0
@@ -5854,7 +6314,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 2_12_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!1 &2063330386
 GameObject:
   m_ObjectHideFlags: 0
@@ -5934,7 +6398,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_16_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &2067737151
 Transform:
   m_ObjectHideFlags: 0
@@ -5981,7 +6449,11 @@ MonoBehaviour:
   inputfile: Assets/Resources/Version 0_12_ET.csv
   PointPrefab: {fileID: 6033794339295159660, guid: a0b90924a2e9f40a49efbe771cfea877,
     type: 3}
-  lineRenderer: {fileID: 0}
+  HitpointPrefab: {fileID: 3109328455630187444, guid: 1cce8ab187919484f9a3eeb4587ef6a5,
+    type: 3}
+  linesToBeSkipped: 10
+  metersToBeRaycasted: 10
+  animationDurationInMs: 100
 --- !u!4 &2145333227
 Transform:
   m_ObjectHideFlags: 0
